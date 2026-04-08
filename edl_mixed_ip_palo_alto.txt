@@ -1,0 +1,2003 @@
+# ── IPv4 Entries (1000) ──────────────────────────────────────────
+138.102.0.0/16 # scanner node
+109.127.68.195 # malicious host
+122.196.45.241/32 # scanner node
+144.215.110.203
+136.108.0.0/16 # known botnet node
+142.91.173.22/32
+148.44.240.81/32 # spam source
+31.3.217.0/24 # suspicious activity
+136.41.236.133-136.41.236.150 # scanner node
+142.183.66.56
+162.226.90.242 # proxy server
+159.18.56.6 # known botnet node
+143.214.41.240/32 # spam source
+156.73.158.159 # threat intelligence feed
+137.69.207.0/24 # suspicious activity
+45.108.226.66/32 # proxy server
+138.181.243.237 # threat intelligence feed
+103.77.209.32/32 # malicious host
+91.151.89.254 # known botnet node
+139.106.163.198 # tor exit node
+119.60.185.0/24 # known botnet node
+160.147.5.150
+45.110.193.0/24 # spam source
+131.197.0.0/16 # spam source
+136.47.92.10-136.47.92.38
+138.117.0.0/16 # c2 server
+158.159.54.224
+163.111.127.0/24 # spam source
+125.41.0.0/16
+141.131.0.0/16 # malicious host
+146.164.244.0/24 # proxy server
+103.220.148.0/24 # spam source
+159.81.144.98-159.81.144.146
+154.225.99.98-154.225.99.124
+116.2.181.0/24
+125.87.133.169 # spam source
+164.118.209.221/32
+134.204.1.29/32 # proxy server
+149.0.158.244
+164.227.105.68
+164.239.0.0/16 # proxy server
+148.147.102.190/32 # threat intelligence feed
+80.38.16.0/24 # threat intelligence feed
+139.189.151.0/24 # suspicious activity
+165.202.204.203 # known botnet node
+122.168.0.0/16 # known botnet node
+103.199.0.0/16 # spam source
+150.91.184.65/32 # suspicious activity
+124.195.0.0/16 # known botnet node
+143.243.86.20-143.243.86.59 # suspicious activity
+142.7.58.85-142.7.58.121 # malicious host
+131.2.140.163/32 # threat intelligence feed
+152.211.133.0/24 # known botnet node
+103.24.203.10-103.24.203.18 # phishing origin
+146.149.81.215 # tor exit node
+45.213.117.207/32 # suspicious activity
+91.87.0.0/16 # c2 server
+124.186.36.144/32
+116.88.181.168-116.88.181.207 # malicious host
+164.58.64.212/32 # known botnet node
+104.44.16.195-104.44.16.232
+137.181.118.158 # scanner node
+165.82.174.198-165.82.174.206
+131.223.96.79/32 # known botnet node
+164.75.254.165 # proxy server
+163.118.192.235
+80.227.41.225
+107.227.191.65 # phishing origin
+152.203.10.77 # known botnet node
+103.146.151.75 # malicious host
+144.37.0.0/16 # threat intelligence feed
+134.162.171.170 # phishing origin
+31.138.0.0/16 # scanner node
+119.77.9.196-119.77.9.219
+138.116.0.0/16 # known botnet node
+148.27.0.0/16 # suspicious activity
+121.133.83.216/32 # scanner node
+80.2.0.0/16 # scanner node
+23.67.92.162 # c2 server
+45.93.220.0/24 # known botnet node
+5.18.202.240/32 # tor exit node
+46.119.174.112 # known botnet node
+143.46.189.129-143.46.189.144 # suspicious activity
+163.248.106.184-163.248.106.195 # spam source
+155.88.68.122
+121.131.85.167 # proxy server
+160.39.120.62-160.39.120.100 # suspicious activity
+160.215.202.135/32 # proxy server
+46.128.165.197 # scanner node
+131.96.0.0/16 # malicious host
+156.19.223.16 # phishing origin
+116.149.94.69
+159.5.151.0/24 # suspicious activity
+163.58.81.0/24 # phishing origin
+137.156.133.51 # tor exit node
+45.181.118.37 # scanner node
+62.9.0.0/16 # phishing origin
+130.125.0.0/16 # proxy server
+104.11.14.46 # suspicious activity
+119.131.36.0/24
+5.58.0.0/16
+140.189.254.109 # proxy server
+137.134.167.183-137.134.167.210
+91.124.32.0/24
+31.136.166.159 # malicious host
+124.124.108.0/24 # tor exit node
+159.8.0.0/16 # scanner node
+164.39.196.0/24 # malicious host
+164.144.253.196
+162.218.0.0/16
+165.120.54.0/24
+125.106.0.0/16 # malicious host
+152.232.250.0/24 # phishing origin
+154.10.24.145 # malicious host
+156.209.98.109
+159.9.10.32/32
+130.104.54.4 # spam source
+125.69.146.46
+139.158.94.193 # spam source
+137.49.39.69/32 # proxy server
+128.81.140.0/24
+91.35.128.122 # spam source
+103.247.111.0/24
+166.156.229.65-166.156.229.102 # c2 server
+156.235.145.39 # suspicious activity
+131.65.117.158-131.65.117.185 # scanner node
+148.116.222.201 # known botnet node
+151.172.204.149
+62.216.45.109 # tor exit node
+80.2.99.223
+62.152.98.30 # known botnet node
+163.158.88.0/24
+150.97.45.158/32 # malicious host
+130.111.152.104 # phishing origin
+146.226.128.123 # proxy server
+155.111.178.0/24 # known botnet node
+31.166.118.218/32 # suspicious activity
+156.217.243.42-156.217.243.85 # phishing origin
+150.157.10.5 # scanner node
+152.78.65.0/24 # spam source
+31.163.149.214 # phishing origin
+109.168.51.187-109.168.51.227 # c2 server
+31.175.216.51/32
+107.89.47.122 # spam source
+140.194.190.152-140.194.190.198
+137.53.104.0/24
+134.32.134.175 # malicious host
+5.199.160.0/24 # scanner node
+121.63.148.71-121.63.148.102
+103.66.147.249
+159.134.72.64 # spam source
+148.65.135.78-148.65.135.110
+137.176.15.230 # tor exit node
+119.33.0.0/16 # tor exit node
+128.19.64.117
+46.66.181.0/24
+164.20.33.4-164.20.33.22
+164.230.103.165 # proxy server
+165.254.0.0/16
+162.110.22.156 # suspicious activity
+104.220.94.228/32 # known botnet node
+150.147.0.0/16
+154.16.154.15
+31.127.201.218/32 # phishing origin
+165.69.0.0/16 # c2 server
+151.76.16.0/24
+131.190.102.171-131.190.102.202
+122.130.245.216 # malicious host
+137.211.133.246/32 # scanner node
+128.0.0.0/16 # proxy server
+109.128.118.45
+160.9.81.136/32
+119.130.164.0/24 # spam source
+134.82.0.0/16
+122.84.3.0/24 # known botnet node
+150.237.0.0/16 # c2 server
+164.163.0.0/16
+156.167.72.177 # scanner node
+45.204.78.120-45.204.78.138 # proxy server
+91.203.169.198/32 # spam source
+149.168.110.0/24
+46.114.126.204 # spam source
+107.208.117.88 # malicious host
+109.28.44.162 # tor exit node
+137.134.224.87 # proxy server
+5.219.222.82 # c2 server
+164.73.246.146 # phishing origin
+161.247.227.119 # known botnet node
+142.249.153.138/32 # tor exit node
+155.50.0.0/16 # tor exit node
+31.232.98.32/32 # phishing origin
+144.195.223.228 # phishing origin
+45.100.64.225/32
+91.219.0.29-91.219.0.42 # scanner node
+164.68.112.198
+122.177.30.246 # threat intelligence feed
+166.19.98.57 # scanner node
+118.3.94.119 # c2 server
+143.187.177.0/24
+131.149.8.166 # tor exit node
+80.21.109.205
+138.188.174.0/24 # known botnet node
+162.241.171.168/32 # c2 server
+158.253.0.0/16 # threat intelligence feed
+143.130.46.85 # malicious host
+23.191.0.0/16
+162.89.190.92 # phishing origin
+152.138.163.0/24
+164.199.85.0/24 # scanner node
+119.158.40.23/32
+143.41.103.29 # phishing origin
+137.113.125.0/24 # threat intelligence feed
+103.128.203.43-103.128.203.89 # threat intelligence feed
+131.97.193.0/24 # c2 server
+144.91.86.225/32
+152.11.31.40/32 # threat intelligence feed
+128.240.74.0/24 # threat intelligence feed
+103.181.132.0/24 # suspicious activity
+130.31.127.65 # spam source
+91.42.90.1-91.42.90.46 # scanner node
+160.162.250.99 # phishing origin
+103.119.109.110-103.119.109.147 # tor exit node
+124.100.0.0/16 # tor exit node
+119.19.111.0/24
+131.105.0.0/16 # malicious host
+150.19.89.9/32 # suspicious activity
+124.7.0.0/16 # malicious host
+62.8.127.23 # malicious host
+46.40.9.186
+124.191.89.0/24 # tor exit node
+137.24.219.47-137.24.219.82 # suspicious activity
+146.164.0.0/16
+46.89.159.0/24
+128.21.110.172-128.21.110.189 # threat intelligence feed
+146.161.120.157-146.161.120.191 # malicious host
+124.213.108.32-124.213.108.39 # known botnet node
+143.93.103.34 # known botnet node
+156.39.0.0/16 # scanner node
+122.123.106.214 # proxy server
+166.9.225.174-166.9.225.217 # tor exit node
+155.129.225.0/24 # known botnet node
+150.237.176.240/32
+143.55.69.18
+158.87.120.227
+148.214.149.205 # threat intelligence feed
+125.95.0.0/16
+136.26.36.154-136.26.36.171
+146.129.184.34/32 # known botnet node
+156.178.0.0/16 # scanner node
+142.175.190.173 # suspicious activity
+118.142.142.57/32 # scanner node
+146.52.247.179-146.52.247.220 # known botnet node
+143.131.235.0/24
+109.155.14.134 # tor exit node
+124.186.7.198
+137.139.46.36 # spam source
+165.93.190.50-165.93.190.64
+23.52.246.27-23.52.246.70
+140.204.249.0/24 # threat intelligence feed
+155.232.188.63 # phishing origin
+130.12.61.203 # known botnet node
+164.145.106.205 # suspicious activity
+151.22.0.0/16 # c2 server
+118.236.0.0/16
+122.29.90.53/32 # scanner node
+62.195.94.137 # spam source
+161.75.107.146-161.75.107.178
+128.42.35.213 # phishing origin
+144.118.39.18 # spam source
+121.149.242.51-121.149.242.91
+163.221.166.0/24
+107.69.0.0/16
+119.208.237.124 # c2 server
+136.194.179.20/32 # scanner node
+146.109.251.134
+149.226.218.137 # threat intelligence feed
+160.47.226.152
+156.245.0.0/16 # threat intelligence feed
+116.38.127.137
+137.71.114.81 # spam source
+158.182.32.150/32
+151.245.16.194/32 # suspicious activity
+139.206.68.3-139.206.68.28 # proxy server
+130.138.186.32 # suspicious activity
+143.235.189.0/24 # scanner node
+138.80.14.19/32
+152.22.162.129-152.22.162.152 # tor exit node
+31.23.241.48/32 # known botnet node
+125.192.168.10/32 # suspicious activity
+159.245.202.0/24 # threat intelligence feed
+116.44.255.136-116.44.255.150 # suspicious activity
+107.243.169.31/32 # tor exit node
+146.231.74.15
+148.200.117.209 # suspicious activity
+122.69.73.6/32 # c2 server
+124.240.101.0/24 # spam source
+141.158.49.133-141.158.49.169
+156.26.189.59/32
+103.5.0.0/24
+161.221.4.88 # proxy server
+140.190.0.0/16
+119.34.176.148/32
+107.72.55.10-107.72.55.49 # phishing origin
+138.167.148.228 # c2 server
+104.39.125.169/32 # threat intelligence feed
+125.43.223.134 # malicious host
+128.50.236.58-128.50.236.72
+103.52.166.0/24 # proxy server
+122.36.0.0/16 # suspicious activity
+152.95.0.0/16 # phishing origin
+158.137.248.221/32
+91.7.82.156-91.7.82.163 # malicious host
+119.229.111.0/24
+152.196.228.46/32 # suspicious activity
+144.172.158.115-144.172.158.127 # threat intelligence feed
+152.173.201.65
+121.155.46.0/24
+103.26.36.84-103.26.36.125 # phishing origin
+151.92.116.183 # spam source
+109.24.23.186
+5.15.220.0/24 # tor exit node
+122.189.98.138/32 # suspicious activity
+166.126.0.0/16
+152.119.54.0/24 # phishing origin
+45.42.38.156
+154.203.93.58 # proxy server
+151.127.178.114
+152.64.0.0/16 # c2 server
+138.229.157.99 # tor exit node
+166.178.251.0/24
+154.112.249.179-154.112.249.224 # proxy server
+103.110.214.0/24
+159.225.150.0/24 # c2 server
+128.103.133.0/24 # known botnet node
+125.152.25.76 # spam source
+160.99.229.32-160.99.229.62 # known botnet node
+138.236.235.60 # threat intelligence feed
+23.252.111.9-23.252.111.20 # threat intelligence feed
+130.118.0.0/16 # scanner node
+128.132.169.149
+138.49.61.118 # known botnet node
+118.98.2.38-118.98.2.78 # proxy server
+146.176.76.76 # known botnet node
+165.187.173.68 # malicious host
+46.186.150.104
+156.165.147.99 # c2 server
+149.206.48.86 # scanner node
+5.53.0.0/16
+134.94.221.120 # phishing origin
+46.94.0.0/16 # tor exit node
+143.164.0.0/16 # tor exit node
+155.96.0.0/16 # scanner node
+143.60.61.0/24 # scanner node
+159.252.150.44
+141.198.60.4-141.198.60.47
+128.0.34.149 # threat intelligence feed
+45.192.0.0/16
+128.167.196.32-128.167.196.71
+104.63.0.0/16 # spam source
+141.67.30.202 # tor exit node
+5.19.38.0/24 # threat intelligence feed
+138.16.204.147 # malicious host
+130.115.182.170 # proxy server
+164.61.130.0/24
+23.171.70.92
+154.3.228.122/32 # scanner node
+160.92.233.25-160.92.233.37 # threat intelligence feed
+138.86.39.0/24
+166.200.0.0/16 # suspicious activity
+164.166.13.0/24 # known botnet node
+128.199.29.15
+154.58.160.163-154.58.160.206 # scanner node
+5.78.191.78 # c2 server
+109.36.51.0/24 # known botnet node
+161.192.140.243/32 # suspicious activity
+160.101.143.125-160.101.143.162 # threat intelligence feed
+103.79.212.78-103.79.212.128 # phishing origin
+23.88.0.0/16 # proxy server
+137.199.0.0/16 # suspicious activity
+91.150.222.136 # spam source
+148.48.124.90-148.48.124.120
+5.148.116.191
+160.201.245.237 # proxy server
+139.157.106.180
+31.93.17.130 # phishing origin
+5.105.128.0/24 # spam source
+116.110.0.0/16 # threat intelligence feed
+166.93.219.25/32
+116.177.0.0/16 # suspicious activity
+158.186.0.0/16 # proxy server
+139.77.68.203 # threat intelligence feed
+161.250.130.0/24 # malicious host
+152.134.11.141
+163.203.126.190
+62.102.0.0/16 # proxy server
+142.56.117.183
+149.35.0.0/16
+137.190.182.117 # malicious host
+62.168.165.6
+141.175.0.0/16 # suspicious activity
+163.213.127.113/32 # spam source
+137.140.35.34 # malicious host
+46.72.165.180/32 # phishing origin
+155.176.31.88/32 # malicious host
+104.124.122.4-104.124.122.11 # c2 server
+143.210.84.109-143.210.84.155
+143.97.154.179-143.97.154.225
+158.37.27.0/24
+80.227.228.223
+151.161.8.165/32
+137.12.0.0/16 # c2 server
+136.21.219.118/32 # suspicious activity
+122.169.0.0/16 # threat intelligence feed
+109.190.204.0/24 # spam source
+103.211.246.17 # phishing origin
+140.224.87.138/32 # phishing origin
+136.95.0.0/16
+31.17.165.214
+121.56.0.0/16
+128.180.135.18 # threat intelligence feed
+122.137.133.117 # malicious host
+141.153.108.102-141.153.108.141 # threat intelligence feed
+103.25.177.126/32 # known botnet node
+91.27.246.3 # proxy server
+109.143.47.14-109.143.47.25
+130.86.111.0/24 # c2 server
+161.49.134.116
+151.15.99.207/32 # proxy server
+45.75.42.93-45.75.42.142 # threat intelligence feed
+159.47.215.8 # proxy server
+91.198.12.0/24 # tor exit node
+62.48.25.0/24 # tor exit node
+80.121.0.0/16
+160.177.96.40 # proxy server
+5.115.90.0/24
+156.241.0.0/16 # proxy server
+159.61.178.143 # suspicious activity
+165.176.212.111
+162.96.57.1/32 # proxy server
+136.171.91.187 # proxy server
+136.187.153.168/32 # scanner node
+154.2.80.57/32 # threat intelligence feed
+158.176.120.144
+158.51.99.102-158.51.99.137 # c2 server
+146.146.253.0/24
+122.224.0.0/16 # proxy server
+131.130.109.226/32
+119.220.24.0/24 # tor exit node
+124.225.0.0/16 # threat intelligence feed
+165.240.118.107 # proxy server
+119.248.130.94/32
+138.131.0.0/16
+162.70.99.0/24
+104.194.239.160-104.194.239.198
+104.59.0.0/16
+109.227.151.28-109.227.151.71 # threat intelligence feed
+139.207.224.135-139.207.224.176
+144.89.138.18 # scanner node
+150.167.129.240 # phishing origin
+121.108.74.106 # suspicious activity
+151.163.226.0/24 # scanner node
+148.63.37.106
+138.146.68.0/24 # threat intelligence feed
+140.115.31.0/24 # c2 server
+130.9.150.46 # proxy server
+144.189.90.31-144.189.90.67
+109.93.58.99-109.93.58.129
+62.44.253.20 # known botnet node
+142.134.144.181-142.134.144.219 # proxy server
+152.222.0.0/16 # phishing origin
+140.52.74.119
+148.57.112.131-148.57.112.174 # suspicious activity
+134.242.87.0/24 # c2 server
+119.247.239.82-119.247.239.89 # c2 server
+121.205.53.235
+156.82.198.202/32 # malicious host
+118.208.0.0/16
+149.18.106.0/24 # tor exit node
+62.80.59.134 # scanner node
+118.135.155.185 # scanner node
+130.247.136.84 # tor exit node
+104.254.76.147/32 # known botnet node
+124.222.44.171-124.222.44.207
+149.76.121.126 # c2 server
+163.150.123.159-163.150.123.190 # threat intelligence feed
+144.101.14.144/32 # suspicious activity
+45.11.53.116
+116.228.0.0/16
+46.44.53.17 # tor exit node
+154.143.139.125-154.143.139.149
+131.130.0.0/16
+155.226.0.0/16 # c2 server
+31.26.145.176 # spam source
+151.239.68.53
+5.36.114.179-5.36.114.210 # proxy server
+80.168.183.89-80.168.183.124 # malicious host
+165.69.5.38/32
+62.38.193.0/24
+136.146.183.136/32
+154.230.21.233 # spam source
+128.36.72.214
+109.210.28.161 # proxy server
+62.203.255.0/24
+80.119.49.179/32 # malicious host
+161.197.183.49-161.197.183.76
+116.180.185.221
+128.88.220.42/32 # scanner node
+155.222.25.187
+162.104.212.206/32 # malicious host
+31.159.114.0/24
+122.112.58.168 # tor exit node
+124.223.87.10 # malicious host
+109.8.224.2-109.8.224.11 # malicious host
+136.5.205.169-136.5.205.176 # scanner node
+160.89.0.0/16 # c2 server
+119.48.3.231 # phishing origin
+156.69.34.248/32 # tor exit node
+143.120.0.0/16 # phishing origin
+159.232.91.17 # tor exit node
+161.28.20.194/32 # c2 server
+109.178.113.18-109.178.113.39 # proxy server
+138.90.185.144-138.90.185.162 # c2 server
+91.25.120.119/32
+150.225.3.228/32 # threat intelligence feed
+46.81.140.171/32 # tor exit node
+165.33.145.160-165.33.145.182 # known botnet node
+23.226.76.196 # tor exit node
+116.120.0.0/16 # c2 server
+31.135.93.193-31.135.93.240 # threat intelligence feed
+122.213.166.177/32 # known botnet node
+137.231.67.125 # scanner node
+116.167.225.208 # spam source
+143.21.238.195 # known botnet node
+119.186.91.64 # spam source
+143.99.0.15-143.99.0.59 # suspicious activity
+124.58.32.44-124.58.32.89
+137.211.7.178-137.211.7.217 # malicious host
+146.170.51.136/32 # malicious host
+146.213.47.0/24 # scanner node
+160.11.176.0/24
+166.229.161.184-166.229.161.207 # c2 server
+46.9.0.0/16
+148.64.191.17 # threat intelligence feed
+23.197.3.16-23.197.3.55 # scanner node
+140.4.190.80
+158.214.0.0/16
+5.207.159.187 # suspicious activity
+121.165.164.39 # malicious host
+23.136.103.49-23.136.103.70 # proxy server
+140.244.92.245 # suspicious activity
+160.163.225.123-160.163.225.149
+148.245.101.118 # spam source
+91.30.22.183 # tor exit node
+162.119.206.77/32 # threat intelligence feed
+148.62.129.59-148.62.129.74
+107.110.173.0/24 # spam source
+137.150.158.93-137.150.158.113 # tor exit node
+148.145.10.0/24 # tor exit node
+144.192.0.0/16
+131.87.33.198/32
+137.179.21.0/24
+137.211.162.82-137.211.162.114
+125.155.231.71/32 # suspicious activity
+159.62.9.0/24 # malicious host
+121.29.203.105
+165.221.0.0/16 # spam source
+142.191.64.0/24 # proxy server
+144.120.0.0/16 # known botnet node
+162.208.64.46 # scanner node
+146.103.153.171 # c2 server
+140.26.6.2-140.26.6.49 # phishing origin
+151.103.224.224/32
+140.123.169.109 # phishing origin
+62.37.56.162-62.37.56.194
+104.193.138.69-104.193.138.80
+80.45.95.0/24
+124.209.205.159
+144.78.209.157-144.78.209.169 # suspicious activity
+148.253.121.75-148.253.121.117
+23.239.0.0/16
+141.106.187.192 # threat intelligence feed
+137.89.226.150-137.89.226.195 # suspicious activity
+150.253.148.0/24 # suspicious activity
+109.80.53.28 # suspicious activity
+5.200.77.0/24 # phishing origin
+163.36.68.139
+125.74.69.0/24 # proxy server
+125.139.250.25/32 # spam source
+158.4.80.0/24 # tor exit node
+161.9.145.0/24 # threat intelligence feed
+146.54.0.0/16 # c2 server
+162.74.227.0/24 # phishing origin
+23.8.196.44-23.8.196.51
+161.17.101.213/32
+125.169.96.22/32 # c2 server
+130.140.67.19 # scanner node
+162.175.88.219/32 # known botnet node
+161.247.217.67-161.247.217.78 # proxy server
+148.181.87.149
+137.148.0.0/16
+131.111.0.0/16
+160.187.181.151 # malicious host
+31.214.80.151 # threat intelligence feed
+130.15.140.9
+164.224.0.0/16 # threat intelligence feed
+134.170.211.171-134.170.211.216
+163.188.0.0/16 # phishing origin
+139.227.57.24 # scanner node
+45.224.230.37 # c2 server
+162.190.24.19/32 # suspicious activity
+162.115.16.146 # proxy server
+136.184.0.0/16 # tor exit node
+164.159.210.192 # c2 server
+134.112.0.0/16 # proxy server
+156.116.0.0/16 # proxy server
+144.82.239.111 # phishing origin
+45.106.152.0/24
+143.209.15.56 # spam source
+31.62.102.163 # suspicious activity
+140.220.0.0/16 # tor exit node
+131.131.249.6/32 # spam source
+45.248.0.0/16 # threat intelligence feed
+161.169.25.201
+130.126.28.56-130.126.28.85 # spam source
+118.132.75.16
+128.125.52.30/32 # known botnet node
+142.130.62.0/24 # c2 server
+158.216.60.30 # malicious host
+165.9.159.101 # proxy server
+116.63.157.20 # tor exit node
+148.39.0.0/16 # malicious host
+151.140.109.67 # phishing origin
+152.4.167.83 # spam source
+45.20.243.0/24 # tor exit node
+156.177.0.0/16 # c2 server
+166.133.57.40-166.133.57.84
+151.206.143.0/24 # phishing origin
+144.54.227.205 # scanner node
+109.81.229.171/32 # known botnet node
+160.185.63.39-160.185.63.76 # suspicious activity
+159.135.221.183 # spam source
+158.247.189.160-158.247.189.168 # proxy server
+162.87.0.0/16
+139.252.102.156 # known botnet node
+104.28.0.0/16 # scanner node
+164.96.254.0/24 # c2 server
+159.38.110.102/32
+156.58.119.89/32 # spam source
+104.116.85.249/32 # threat intelligence feed
+163.69.160.0/24
+124.90.233.0/24 # proxy server
+124.168.0.0/16
+154.204.224.68 # malicious host
+154.96.46.191 # spam source
+45.166.191.0/24
+128.228.54.0/24 # phishing origin
+80.49.88.66 # c2 server
+155.188.241.60-155.188.241.81
+128.161.176.149-128.161.176.177 # tor exit node
+162.160.216.73
+125.42.132.0/24 # tor exit node
+119.17.0.0/16 # tor exit node
+134.226.111.109-134.226.111.130 # c2 server
+109.17.0.0/16 # scanner node
+116.240.4.132 # spam source
+134.198.70.95 # malicious host
+122.72.0.0/16 # known botnet node
+160.85.0.0/16
+23.5.245.176-23.5.245.188 # malicious host
+31.230.228.0/24 # spam source
+125.110.0.0/16
+141.233.60.108-141.233.60.157 # threat intelligence feed
+161.197.133.191 # proxy server
+152.207.0.0/16 # known botnet node
+142.194.134.8 # suspicious activity
+5.186.119.0/24 # known botnet node
+164.116.0.0/16
+149.1.245.78-149.1.245.124
+91.100.112.130-91.100.112.175
+125.133.86.205/32 # c2 server
+109.76.7.0/24 # known botnet node
+154.169.214.180-154.169.214.204
+124.38.79.101 # spam source
+148.46.22.54/32
+166.114.72.58/32 # tor exit node
+124.184.186.82 # c2 server
+107.194.0.0/16
+119.124.106.0/24 # threat intelligence feed
+159.169.30.0/24 # proxy server
+131.125.249.187-131.125.249.221 # phishing origin
+128.113.190.0/24 # malicious host
+156.83.236.116-156.83.236.152 # tor exit node
+104.228.75.141/32 # phishing origin
+161.84.0.0/16 # threat intelligence feed
+152.112.194.68 # c2 server
+109.34.238.149-109.34.238.184 # scanner node
+141.88.179.6/32 # known botnet node
+149.247.0.0/16
+104.87.170.71
+122.112.5.157/32
+104.248.131.144/32
+134.157.65.222/32 # proxy server
+161.6.0.0/16 # threat intelligence feed
+80.210.164.7/32
+130.112.153.45/32 # suspicious activity
+158.242.86.126-158.242.86.137 # c2 server
+139.182.200.0/24 # tor exit node
+163.98.37.92 # tor exit node
+149.7.52.237 # c2 server
+138.124.113.49 # threat intelligence feed
+62.61.0.0/16
+80.30.37.50 # spam source
+163.179.35.0/24 # phishing origin
+118.159.125.0/24 # phishing origin
+138.19.0.0/16 # threat intelligence feed
+162.95.64.21 # phishing origin
+152.205.115.0/24
+161.143.0.0/16 # suspicious activity
+143.22.201.244/32
+160.77.20.0/24 # c2 server
+143.30.227.48/32 # c2 server
+122.54.0.0/16
+149.130.187.126 # threat intelligence feed
+46.255.238.80 # tor exit node
+118.42.0.0/16 # known botnet node
+141.66.153.179/32 # malicious host
+45.70.126.225/32
+138.225.123.18/32 # threat intelligence feed
+136.11.61.0/24 # suspicious activity
+104.196.173.0/24 # phishing origin
+152.235.80.0/24 # proxy server
+144.202.138.46 # known botnet node
+151.220.166.6
+138.189.124.102-138.189.124.121 # c2 server
+141.93.7.15 # known botnet node
+104.115.0.0/16
+137.84.109.230
+5.71.180.39 # suspicious activity
+146.238.70.91/32
+148.121.230.230/32 # malicious host
+152.148.184.140-152.148.184.158 # suspicious activity
+125.90.37.0/24 # suspicious activity
+150.152.128.170/32
+128.254.0.0/16 # known botnet node
+138.205.239.0/24
+109.243.118.180-109.243.118.187 # spam source
+103.143.81.107
+31.115.56.71/32
+125.251.64.124
+143.72.0.0/16 # malicious host
+146.151.93.129 # spam source
+119.245.253.137-119.245.253.183
+122.185.166.65/32 # spam source
+154.130.210.236
+109.176.63.0/24 # malicious host
+125.233.0.0/16 # tor exit node
+31.106.0.0/16 # threat intelligence feed
+109.100.4.123/32
+154.215.80.0/24 # suspicious activity
+164.29.181.6 # suspicious activity
+143.34.178.0/24 # threat intelligence feed
+166.88.154.82/32 # phishing origin
+141.153.38.0/24
+140.165.167.97 # tor exit node
+104.98.0.0/16 # threat intelligence feed
+141.137.0.0/16 # c2 server
+149.137.0.0/16 # tor exit node
+131.186.0.0/16
+130.124.67.216/32 # spam source
+121.236.196.79 # known botnet node
+121.144.207.72-121.144.207.87 # threat intelligence feed
+80.51.139.0/24 # malicious host
+118.231.46.131-118.231.46.144 # suspicious activity
+5.74.117.102 # malicious host
+91.33.0.0/16 # phishing origin
+154.179.0.0/16
+62.100.198.237 # phishing origin
+23.23.150.49 # c2 server
+143.249.0.0/16 # proxy server
+151.253.223.151 # known botnet node
+144.225.111.222/32 # phishing origin
+109.155.129.0/24 # phishing origin
+119.195.200.170-119.195.200.185 # malicious host
+124.8.144.69-124.8.144.88 # phishing origin
+144.100.103.82
+103.39.219.253/32 # phishing origin
+149.151.5.43 # suspicious activity
+121.87.0.0/16
+160.169.101.33-160.169.101.56 # known botnet node
+124.120.186.73-124.120.186.120
+151.103.175.82/32 # tor exit node
+139.221.50.189-139.221.50.211 # malicious host
+137.108.0.0/16
+162.161.84.28/32
+137.54.173.63-137.54.173.73
+136.132.108.0/24 # tor exit node
+109.214.71.0/24
+141.25.140.59 # scanner node
+160.144.65.52/32
+155.107.78.62 # c2 server
+46.221.140.201/32
+140.230.232.164 # scanner node
+137.6.134.223/32 # tor exit node
+80.100.67.0/24 # suspicious activity
+80.254.1.0/24 # phishing origin
+116.158.80.179 # known botnet node
+109.97.60.231 # c2 server
+130.174.166.60
+91.155.90.0/24 # threat intelligence feed
+91.216.102.69 # malicious host
+136.171.32.0/24 # phishing origin
+130.23.96.0/24 # known botnet node
+163.206.132.14/32 # malicious host
+118.65.134.127 # threat intelligence feed
+121.172.119.253 # proxy server
+131.161.33.167 # known botnet node
+150.251.147.143/32 # scanner node
+118.81.0.0/16 # phishing origin
+130.155.167.104-130.155.167.109 # spam source
+150.201.236.0/24
+149.31.4.73/32 # known botnet node
+163.148.0.0/16
+125.64.170.9 # suspicious activity
+136.228.115.0/24 # proxy server
+131.85.125.24/32 # c2 server
+159.13.91.186-159.13.91.231 # known botnet node
+150.204.226.169/32 # scanner node
+142.86.86.35/32 # scanner node
+124.97.27.0/24 # suspicious activity
+124.229.155.199/32
+166.159.57.113/32
+161.28.0.0/16 # scanner node
+152.163.120.191/32 # threat intelligence feed
+165.238.0.0/16 # proxy server
+118.215.44.83 # spam source
+159.214.75.44-159.214.75.53 # known botnet node
+125.54.140.0/24 # scanner node
+139.89.40.33/32 # spam source
+91.84.0.0/16 # threat intelligence feed
+91.230.87.91/32
+166.65.77.0/24 # scanner node
+140.187.200.68/32
+162.213.130.17-162.213.130.40 # threat intelligence feed
+134.182.138.140-134.182.138.158 # phishing origin
+149.129.181.215
+91.178.0.0/16 # threat intelligence feed
+130.197.53.0/24 # proxy server
+164.15.160.239 # scanner node
+125.101.0.0/24 # tor exit node
+128.170.0.0/16 # spam source
+148.148.0.0/16 # scanner node
+149.130.8.191 # c2 server
+103.130.0.0/16 # known botnet node
+116.147.194.100
+118.59.0.0/16 # tor exit node
+134.247.35.33-134.247.35.56 # suspicious activity
+125.236.114.0/24
+45.80.0.0/16 # phishing origin
+122.113.169.1 # known botnet node
+23.58.141.204 # scanner node
+137.175.104.0/24
+161.250.64.229/32 # tor exit node
+31.173.80.22-31.173.80.34 # c2 server
+122.179.0.0/16
+152.83.45.202 # known botnet node
+62.80.224.0/24 # tor exit node
+124.92.73.0/24
+141.105.173.253
+141.139.27.167/32 # c2 server
+118.18.109.171-118.18.109.202 # spam source
+109.53.191.243 # suspicious activity
+164.77.159.57-164.77.159.80
+163.98.219.156 # c2 server
+62.248.235.36
+125.106.58.28
+62.237.133.0/24 # malicious host
+62.203.0.0/16 # spam source
+23.134.53.252 # scanner node
+31.167.74.0/24 # known botnet node
+103.143.45.158 # phishing origin
+163.51.8.132-163.51.8.142
+136.165.106.88 # malicious host
+45.219.93.251 # tor exit node
+156.57.43.116/32 # proxy server
+164.146.210.52 # c2 server
+130.200.111.46 # threat intelligence feed
+23.1.129.233 # proxy server
+80.2.159.14-80.2.159.59 # proxy server
+128.55.109.89 # threat intelligence feed
+122.201.12.135
+156.186.246.68/32 # proxy server
+141.69.198.0/24 # phishing origin
+165.37.252.179/32
+122.98.108.0/24
+136.105.73.169/32 # suspicious activity
+23.142.184.176/32 # suspicious activity
+5.55.0.0/16 # suspicious activity
+146.239.176.62
+107.135.227.106-107.135.227.147 # suspicious activity
+148.139.184.0/24 # phishing origin
+109.159.89.36 # tor exit node
+163.87.0.0/16 # known botnet node
+80.196.122.87
+166.220.179.113/32 # known botnet node
+80.52.29.0/24 # suspicious activity
+119.218.45.74 # threat intelligence feed
+128.147.114.101 # known botnet node
+158.116.59.0/24 # scanner node
+134.38.58.0/24 # phishing origin
+46.185.223.43/32 # c2 server
+80.178.51.162
+154.97.251.88-154.97.251.118 # spam source
+142.127.203.0/24 # threat intelligence feed
+118.51.0.0/16 # tor exit node
+130.167.108.137 # tor exit node
+121.216.44.0/24 # phishing origin
+149.100.148.0/24 # threat intelligence feed
+161.104.0.0/16
+139.177.214.0/24 # known botnet node
+130.180.0.0/16 # c2 server
+103.82.242.96/32
+148.82.0.0/16
+136.57.123.168 # phishing origin
+154.105.159.0/24 # spam source
+148.231.157.180
+155.48.0.0/16 # proxy server
+46.185.204.0/24 # proxy server
+62.182.0.0/16 # malicious host
+136.92.166.0/24 # tor exit node
+130.171.127.154-130.171.127.162
+150.90.141.92
+116.247.255.40 # known botnet node
+154.98.232.71-154.98.232.91 # proxy server
+166.24.73.0/24 # phishing origin
+122.179.182.214 # proxy server
+134.62.156.89/32 # known botnet node
+151.174.24.228
+156.14.37.0/24 # c2 server
+80.139.88.212/32 # proxy server
+158.184.238.118/32 # tor exit node
+130.132.99.0/24
+143.221.42.0/24 # spam source
+165.140.191.6-165.140.191.13
+80.213.28.41-80.213.28.64 # c2 server
+46.126.44.220/32
+160.252.219.89 # phishing origin
+125.142.0.0/16
+159.205.172.0/24 # malicious host
+159.128.0.0/16
+121.42.0.0/16
+166.159.134.176 # c2 server
+159.38.149.185 # threat intelligence feed
+23.165.253.97
+165.149.118.0/24
+134.7.195.162 # tor exit node
+103.218.0.0/16 # spam source
+121.78.162.225
+104.62.172.0/24 # suspicious activity
+128.19.223.72
+31.139.156.205/32 # spam source
+23.254.183.225
+163.20.166.112-163.20.166.160 # phishing origin
+142.6.79.173-142.6.79.182 # c2 server
+141.187.1.134-141.187.1.178 # tor exit node
+45.187.116.17/32 # suspicious activity
+159.73.111.36-159.73.111.68 # proxy server
+162.61.186.114
+143.76.215.166 # spam source
+104.95.136.208/32 # scanner node
+118.170.187.122 # spam source
+80.18.99.229 # scanner node
+104.207.118.0/24
+80.75.179.0/24 # suspicious activity
+23.214.0.0/16 # c2 server
+62.174.62.130
+116.23.211.63
+80.28.75.153 # c2 server
+149.186.0.0/16 # tor exit node
+152.132.238.0/24 # tor exit node
+165.151.122.113/32
+148.145.123.0/24 # c2 server
+144.186.138.85 # c2 server
+158.164.51.8 # known botnet node
+109.56.142.134 # known botnet node
+118.244.180.162 # known botnet node
+163.200.12.99 # c2 server
+23.194.164.14-23.194.164.41 # phishing origin
+166.45.223.7/32
+151.168.74.3 # spam source
+138.151.215.60 # spam source
+118.89.0.0/16
+146.47.51.3-146.47.51.10
+154.243.187.24 # c2 server
+140.155.237.87-140.155.237.104
+103.36.173.23
+137.81.244.0/24 # suspicious activity
+161.32.38.96/32 # phishing origin
+130.43.0.0/16 # known botnet node
+156.93.0.0/16 # c2 server
+131.226.250.150-131.226.250.166
+
+# ── IPv6 Entries (1000) ──────────────────────────────────────────
+2606:a64c:e74d:3d2c:4dc2:71b8:e215:7780 # spam source
+2a00:c67f:13ac:8813:cf05:77f4:394c:b07a/128
+2a02:86aa:6656:84ad:4057:48dc:f92f:691b # spam source
+2405:8409:7718:567:940c:386f:cb7:ebc8
+2a04:40ad:e2d4:40d0::/64 # threat intelligence feed
+2405:372c:8da7:c94a:2d67:1fe2:6090:4e5/128
+2606:797b:cb23:c141:2fb6:8e44:6a44:433f/128
+2800:a73a:a266:58a2:ba87:1ee4:f3f1:b245
+2a06:c34:38c8:1f0a:a8f9:ab3c:ee77:61c0/128
+2a03:bbc:5315:2147:6a8d:93c8:94e9:a5b3 # threat intelligence feed
+2407:3873:2929:f840:8386:7880:bdda:89a2
+2a03:e36f:50a5:47f6:bb2e:197d:7e5:cc0a # malicious host
+2a00:d4b2:931d:dbea:167f:dfe:c492:5a82 # known botnet node
+2a00:e7b7:11fa:cb8c:8cca:9278:be4d:1f36 # suspicious activity
+fd00:6a63:a689::/48
+fd00:bbab:b2ff:636d:2f94:1cd0:beb4:c61c # threat intelligence feed
+2003:e102:79fc:5acc::/64 # tor exit node
+2800:fa00:fdd4:9c7f:8cae:172:9b97:781f # scanner node
+2405:47e3:4307:31a1:856a:d60d:e34f:3176 # suspicious activity
+2c00:9e9e:7ebd:43df::/64 # c2 server
+2001:fe0a:b80f:7af8::/64 # spam source
+2400:afcf:86cc:b3e8:7480:11ec:4ff7:cb1d # suspicious activity
+2a04:fff5:d1d5:b345::/64
+2407:3dc:aa0f::/48 # tor exit node
+2604:a9d3:522f:cb62::/64
+fc00:7e50:d0b3:a85:d91:8d71:c852:6b79
+2003:7ab7:b030:437e::/64 # threat intelligence feed
+2620:4e34:9278:e8e9:ecde:7caf:5346:d4f6
+2001:8389:457a:c53b:dbc2:eba7:346a:f00/128 # threat intelligence feed
+2001:c8a3:2fc9:cf6b:76b4:527c:83a9:ff92/128 # tor exit node
+2407:1fcc:5f0:a3e4:2ef1:115:e9db:af8e # spam source
+2a03:ff02:b273:2b3a:b7f1:ee57:7115:e067 # known botnet node
+2405:4917:c60f:689:939c:dfac:b7b5:37a9 # threat intelligence feed
+2400:4e61:475a:a86::/64 # threat intelligence feed
+2a00:4126:6159::/48 # proxy server
+2620:cacd:b681::/48 # c2 server
+2800:f905:e827::/48
+2a02:87d8:d0c2:649e:15ab:c737:3335:a164/128 # suspicious activity
+2a03:a3dd:2c0e:3f0b:36ca:4371:c230:2f94 # known botnet node
+2400:3597:89ba:3144::/64 # c2 server
+2a00:e913:8f53:b147:c026:f88b:b8ca:ea87
+2600:2741:d702:193::/64 # tor exit node
+2003:2a31:8065:83cd:eac5:aceb:8041:feab # tor exit node
+2606:71db:1611::/48 # tor exit node
+2604:dda:8a90:43fc:6cc7:264f:76e7:a0e7
+2a04:d79a:e8e8:e90e:b948:d301:7a57:5f31 # tor exit node
+fc00:8a78:8a33:18c8::/64 # proxy server
+2003:2112:c431:754e:5a27:df33:17c7:cc1a/128 # known botnet node
+fd00:dc81:4de3:f009:21b3:e219:8dd5:2d94/128 # phishing origin
+2a00:8e6f:c766:b3ba:838d:2068:8f4d:30cb # suspicious activity
+2a03:82d4:feb6:b555::/64
+2003:aa69:2537:44c::/64
+2a02:dcac:f354:6907:e015:31f4:a288:62ce # threat intelligence feed
+fd00:5ca5:6c38:5767::/64 # known botnet node
+2a06:7bfb:f1c4:633c:3157:e712:2dc7:39c6 # proxy server
+2a02:2b14:3965:fb98:9196:c40f:637b:813
+fc00:7f12:cfda:945a:4ca1:99e:71b5:3a74/128
+2a04:a674:9788:600a:27a9:e9af:417f:aff2/128 # phishing origin
+2407:4a31:5cc3:36ac:190e:8181:e62c:4cb9
+2a06:258a:b313:a14f:faa6:f618:5f3e:a1a2
+2400:7f92:1318:20a2::/64
+2a03:2831:6a76:6cc9:287f:4a96:ad5f:9c36 # tor exit node
+2405:9514:ac50:3a77:6ee3:1c64:1d9e:2212
+2a02:d19b:c680:ca06:b3dc:fa15:e16b:db80 # spam source
+2003:cc88:5996:d789:a7ed:8a4d:c7cc:c7b6/128 # suspicious activity
+2405:2e83:88:dd0f:cab4:3d9:7e3d:472e # malicious host
+2a06:c192:f179:fda7:93da:a4d4:92c7:398d # spam source
+2a06:5eef:2717:4758::/64
+2400:a387:66f7::/48 # proxy server
+2407:7cd0:dc12::/48 # malicious host
+fd00:f4c0:c01f::/48 # spam source
+2604:f792:380:1663:29e5:c4de:8dc8:24ca # c2 server
+2c00:d580:868:c00f::/64 # threat intelligence feed
+2800:95d9:4162:28a:a1a5:f88e:20a2:9225 # phishing origin
+2606:c940:c3d7:d1e8:d504:1952:f670:dea5/128
+2a00:3365:53f7:5267:7488:e7ef:8042:e0eb/128 # suspicious activity
+2620:95d1:d25a:2f51:9b53:382a:e834:f3e8 # c2 server
+2620:6e18:4a51:e962::/64
+2606:bdf1:5bf3::/48 # phishing origin
+2a00:974f:19a0:a1f8::/64 # c2 server
+2407:d730:a9a4:7ec3::/64 # known botnet node
+2620:ec13:a63e:2994:b34d:77e:6093:53d2 # tor exit node
+fd00:9ea:547::/48 # proxy server
+2620:a4c7:d441:8393::/64 # malicious host
+2a02:532a:117d:af66::/64 # proxy server
+2a04:e837:da4a:5a2f::/64 # phishing origin
+2c00:391d:c720:6a44:76e5:a1ba:3687:2352 # spam source
+2a00:f234:381:e7c8:45f7:a086:afa2:7fe4/128 # tor exit node
+2003:3099:977d:1df1:b83:b6e2:a950:a384 # phishing origin
+2a06:937c:7a7b:a673::/64 # threat intelligence feed
+fc00:9465:5f01:3c85:f3b9:840f:236e:bbc4 # phishing origin
+2a03:bc07:acaa::/48 # proxy server
+fc00:fc2a:55b::/48 # tor exit node
+2001:8f7d:261b:22c8::/64 # proxy server
+2405:4f01:9fce:379b:43bf:ca1e:fae2:f125/128 # suspicious activity
+2a06:fcf1:1256:5fe4::/64 # c2 server
+2a04:1247:9ea5:25b7::/64 # malicious host
+2a02:7b8b:bcd7::/48
+2407:6a9e:e8ed:2655::/64 # spam source
+2c00:8a0f:996::/48 # c2 server
+2c00:d855:61e1:576d:2ee1:1e0d:399c:78f/128 # malicious host
+2a04:7498:2b79:bc95:7e72:d947:33f8:72e5
+2a03:8ade:de46:47c0:de1d:9bc3:4dba:61af # c2 server
+2a02:f266:d6ed:3019:bbfc:20ce:1ed1:e3ad/128
+2a00:9016:c418:b272::/64 # tor exit node
+2a04:282f:770b:345:f860:c32e:981a:fc1e # proxy server
+fd00:58b0:bea3:9696:159e:deec:5a21:b53e # tor exit node
+2600:20d1:8886::/48
+2a06:1476:6c2e::/48 # threat intelligence feed
+2a03:ec2e:89e8:21dc:d047:ca28:e4fe:347c # scanner node
+2405:80:1afa:ec8f::/64 # threat intelligence feed
+fc00:1ed4:bd77:297a:ea32:34f8:a85f:ed9c # proxy server
+2a06:bdd4:80f0:2457::/64 # scanner node
+2407:5bc5:c166:fce4::/64 # known botnet node
+2a06:d9a1:f507:a9db:84fd:4881:19d2:976c # spam source
+2604:368d:fc06:c8f9:7995:7dc5:1ba0:7091
+2405:9fc6:182:9142:5ef0:f7c3:9d32:fac2
+2600:b122:2e5e::/48 # c2 server
+2a06:3476:b40d:f58c:dd70:5d11:62f8:722/128
+2400:7196:57a8:724e:a2a7:3b0d:565d:69a5
+2405:6f61:5552::/48 # spam source
+2606:6ac0:aec4::/48 # phishing origin
+2606:4cb1:ae1a::/48 # phishing origin
+2a04:c8c4:32a6::/48 # spam source
+2620:f0da:f155:62e::/64 # tor exit node
+2620:a90e:68ed:dde6::/64
+2a06:b2a9:19f9::/48
+2800:8d7c:4a77::/48 # scanner node
+fc00:95f8:5eb8::/48 # malicious host
+2604:ba8e:8b69::/48 # phishing origin
+fc00:beae:36d2:2ca1:27eb:ffe6:841d:8d2a
+2a04:3cdf:104f:77ed:2234:422f:a1eb:bce3
+2a02:af00:e04c:9d8::/64 # tor exit node
+2800:62e9:3df2::/48 # spam source
+2600:ad19:6dc2::/48 # proxy server
+fd00:c2b4:d346:d6ae:cfd2:3f4a:6cda:420d
+2400:426c:16b2:3372:a866:3f7e:9b8c:7584 # spam source
+2606:565c:c310:7b43::/64 # scanner node
+2a03:f8a9:250d::/48 # suspicious activity
+2a03:e54d:8afc:5ed9::/64 # malicious host
+2405:6ae4:9cdd:213b:b95a:c227:83ee:61ff/128 # suspicious activity
+2a03:b51c:91d1:6de:ae2:2cf8:d98d:d90 # known botnet node
+2407:622b:9b70:5725:5d5d:68c3:db7c:4629 # known botnet node
+2400:26e7:ee8b:aeb0:7651:97c8:18e5:2e44 # phishing origin
+fc00:73d3:40b3:a1:5583:482f:1c07:ac62
+fd00:507f:6c51:8db4:6ac6:71ec:923a:2add/128 # scanner node
+fd00:427:4337:1266:df:3c95:7eeb:a728/128 # spam source
+2001:7a39:7aed:a2f1:ad76:c76e:498b:4daa # known botnet node
+2c00:cab2:10d1:49f5::/64
+fd00:a9:4ddb:84ed:38a3:db78:4a3e:149f # threat intelligence feed
+fc00:f88c:6d4e:b68f::/64 # spam source
+2001:fde9:8696::/48
+2a03:ff9e:a2b3:c556:3166:2ff0:43c2:365e # scanner node
+fc00:d753:5a4:d380:fc77:270b:155b:9b35 # known botnet node
+fc00:ee54:edad:8ee0::/64
+fd00:3dd2:3df:8990::/64
+2001:3ae8:95bb:1ef8:bed1:c70a:74d3:8923 # phishing origin
+2405:ae29:2d29:fb67:13c7:28ab:cd54:140f # known botnet node
+2a06:8e42:a0e2::/48 # spam source
+fd00:ccf:3ff8:125e:86c7:7e00:7fbd:602e # spam source
+fc00:8fe9:3e1a::/48
+2a03:7d73:6b3f:d689::/64
+2a02:a32d:a29c:9f5b:faa5:39bc:f36e:b5f8 # spam source
+2c00:e0d1:3727::/48
+2001:1a68:93fd:14fb:6af1:8b15:affe:4f7f/128 # malicious host
+2620:96d2:c7db:7d7f:a751:7643:9a1e:b03
+2600:bcde:5af8::/48 # threat intelligence feed
+2a04:24d2:eec2:1e8e:7895:b2dc:f31:d354/128 # phishing origin
+2800:fe56:f710:6e32:741c:4284:3ef1:f10c # threat intelligence feed
+2606:2c45:3b11:bc36:d51e:35eb:62a4:590c/128 # spam source
+2604:7e51:5748::/48
+2003:ef96:3ac4:2a8::/64 # threat intelligence feed
+2a00:1e95:367f:3b04:d70f:6a73:b024:4fdc # spam source
+2800:aa42:9f23:31b6:9957:470f:28e4:a6ea # phishing origin
+2a00:56cf:beaf:e8d0:cb72:4c15:78ee:1ea2 # suspicious activity
+2600:bcf:c9b3:add:d50f:2f07:c2da:24b5/128 # malicious host
+2a06:29c4:96ba:57da:b9b:b8eb:cddf:6441 # suspicious activity
+2a00:a02a:580:b956:40ee:7e14:7ad6:fb1e # scanner node
+2001:7fe5:567d:4303:1730:eedc:fa1b:81e7
+2a04:21b6:5c41::/48 # malicious host
+2c00:bcf4:1f33:7fe1:b19a:16fc:3656:250f # threat intelligence feed
+2a02:30e2:9727:159:4217:9640:75ad:e79a # threat intelligence feed
+2600:f65f:dc0e:db39:e575:4a18:9ca7:f381 # c2 server
+2a00:e823:7348:bf12::/64 # c2 server
+2405:d8f2:dbab:b2a4:bf1c:b584:508a:5950
+2a06:8f5f:aa1d:2cfc:2f98:6210:542d:223 # tor exit node
+2a06:dbfc:1d1e:426d:262a:3b07:9055:b4af # spam source
+2a02:4a8d:d04d:a065:4e0d:151c:819e:2d84/128
+2600:7d78:658a:54f:7b40:b86c:11e9:b374
+2800:5956:5426:e01c:7dcc:43d0:2aa:c4d4
+2c00:2e9b:85dd:7b69:9021:74cf:859e:6b04/128
+2a04:21e5:3dba:b0b9:b615:a3b5:7dfa:23f6 # malicious host
+fc00:e938:607:9cc8:3b69:27c9:b4a:78ad # spam source
+2a02:be70:50b9:c089:b961:503a:fb32:4a88 # spam source
+2a06:8fb6:43ea:5a3d::/64
+fc00:4700:9f2a:e069::/64
+2620:98f8:24b8:42ae:b607:3e32:1ec3:8da8 # tor exit node
+2400:f913:c36a:42f9::/64 # known botnet node
+2a00:a737:db0d:a113:42fb:46c9:55b0:bd72/128 # proxy server
+2620:2767:ba3b:4f19:7704:e2bd:d89a:153 # threat intelligence feed
+2a06:ba32:84b1:23c6:285e:784:b0f4:ac47/128
+2a06:db85:6251:f200:d5b7:7f12:8961:4971 # suspicious activity
+2c00:cdf4:1c4f:65e4:e8ef:1f32:ad5d:437b/128
+2400:fbe3:bd1e:b409:d2b0:2e69:5572:ca26/128 # known botnet node
+2600:c31a:ce7d:7f86::/64 # malicious host
+2a02:5354:26ee:5079:987c:8165:3c2d:9540/128
+fc00:dcd6:6e43:578d:a03b:fc6e:d608:703f/128 # spam source
+fc00:76b3:c586:534a::/64
+2604:47e5:adcc::/48 # tor exit node
+2400:eb36:f07e::/48 # c2 server
+2a04:bf9b:42a0:a955:51d6:7c58:fa5e:712c # tor exit node
+2a00:a9d7:83ff:c3cd:793c:f2f3:1311:12d6/128 # proxy server
+2a06:b6ad:b868:8dd0:8a84:4f97:a47a:39a6 # malicious host
+2a00:2088:95b6::/48
+2600:5cc3:203f::/48 # tor exit node
+2407:e094:2536:beef::/64 # spam source
+2a04:7a22:b89:17e3:7199:c6e9:3696:bf50/128 # phishing origin
+2a04:f1f0:1f39:632d::/64
+2001:c817:ef24:462c::/64
+2a04:889f:9b32:2566:243f:c827:42cc:a1e0/128 # c2 server
+2a06:1536:aece:86bb:e085:9176:fcfa:b2ad/128
+2c00:50ba:5a6b:304f::/64 # threat intelligence feed
+2606:a698:4a72:71de::/64 # tor exit node
+2400:2963:9b3f:806d:d9c6:7bc1:5838:ddca # suspicious activity
+fc00:2a86:6c44:66fa:6883:2529:8624:ea3c # tor exit node
+fd00:6759:ff13::/48 # scanner node
+2a06:9790:fb98:ba1c::/64 # proxy server
+2003:51ef:e067:4f5d:4e98:c0f0:c7bc:8b7f/128
+2407:6f2e:dfd4::/48
+2a03:564:bcc8::/48 # known botnet node
+2a06:d2d6:c8da:8950::/64 # malicious host
+2001:3db0:d2b7:9ab2:561a:9ee9:1c44:3a1b/128 # tor exit node
+fc00:9e4b:6070:ef72:a486:3dc9:4522:e63e/128 # threat intelligence feed
+2800:91f:1042::/48 # c2 server
+2c00:a997:f3ac:71fa:53f8:327a:e2e8:f572 # suspicious activity
+fc00:789e:3556::/48 # malicious host
+2a03:6d1e:c5a4::/48 # known botnet node
+2405:57a7:7e14:3348::/64
+fc00:d7e8:2e09:5be9:6a29:33af:d9c:f5c2/128 # tor exit node
+2a04:bf2f:42c:e8b0:5eda:589c:9f49:ed6b/128 # phishing origin
+2604:e852:634c:8c86:b97d:59d9:321f:68c7/128 # scanner node
+2400:5823:9c1a:da58:7b8b:26bb:4320:e9fe # tor exit node
+fc00:b1d8:1220::/48 # proxy server
+2a00:fec0:c31c:8781:6cfb:7ab5:4cca:c27c # proxy server
+2604:632a:65a6:e88:ac26:8b7d:5901:2bb9 # proxy server
+2a00:817a:a1bf::/48
+2400:d724:97b1:9ac8:5dab:a0dc:7f33:4d32/128 # proxy server
+2a03:6b20:5360::/48
+2600:564f:bb75:9944:d3af:1158:1eec:35c7 # known botnet node
+2001:de45:ca0c:f192:28af:9d9:8361:a3b7
+2400:7944:2cc6:95b0:e099:65a7:dd59:201 # c2 server
+2405:c21:733c:8f08::/64
+2a03:99ce:3c8d:ab2b:651d:60b1:4999:3adc # scanner node
+2a00:1e0f:9f74:751b:224:7cf1:8e11:f008/128 # suspicious activity
+2c00:86eb:c34c:a226:a7d5:a500:ee9b:baab # tor exit node
+2a06:1f60:d7e6::/48 # spam source
+2003:9637:85e8:fde2:650f:7136:70ce:3b47/128 # suspicious activity
+2c00:36ee:36ff:3235:a172:776:8b81:e2e1/128 # phishing origin
+2407:95b:773a::/48 # proxy server
+2620:c9e8:2f98:4bcc:97b7:7435:d10c:4e4b # suspicious activity
+2606:eedb:f48::/48
+2a02:4399:da2f:78aa:cdd5:25ba:c041:a26a # c2 server
+2c00:cf21:9814::/48 # c2 server
+2606:2cb0:e39:3270:5517:df8c:2395:38e6/128 # c2 server
+2a00:95d1:8429:badb:10ba:d6dc:62ba:a4cf # known botnet node
+2a06:2209:df2b:d87f:5599:7381:30f3:3426 # phishing origin
+2620:6ff6:37a1:eda:f64e:36ba:7e88:e6df/128 # scanner node
+2606:216c:3cdf:6393:f500:94dc:a4be:8ad0/128 # proxy server
+2800:8f0e:2e5f:795d:dfaa:b317:e5a0:389b # spam source
+fd00:6b6b:ca86:2e5d::/64
+fc00:7b8b:88e4:2e96::/64
+fc00:a1dd:8a93:838c:7a53:6a1f:efaf:a2a7/128 # known botnet node
+2a06:fda3:f1f::/48
+2600:8536:6a70:1ab:42e7:3923:f3b7:ec35 # malicious host
+2c00:77ab:a747:dff:25b2:a492:95f7:44ce
+fd00:85f9:f8f:526f:3c91:6cdf:d8bc:b9df/128
+2405:df30:f08:3a6a:7c34:fbd7:2793:b557 # threat intelligence feed
+2003:b37a:9355:ad65:8b58:ed8:d9ee:c7e7 # suspicious activity
+2800:227f:7d0d:4e11:4b2e:bc68:f1c0:1dbf
+2a04:c280:6347:1362:1e64:722b:15e0:a1cd
+2a04:a20a:1a52::/48 # proxy server
+2001:4ee6:e837:75c1:98f2:dcf4:5f1d:1e9a
+fd00:98c5:b232:649e::/64 # proxy server
+2800:4bd:850c:be66::/64 # c2 server
+fd00:416f:9d51:7924:e63d:9cc4:4a11:53c4 # suspicious activity
+2604:ccb:db54:3558:dcc9:2de2:23c3:5e53 # suspicious activity
+2001:bfc6:9a32:4d7a:ced5:87b7:78c:18d1/128 # scanner node
+2606:2e90:d8b6:a266:a193:b887:b9d9:a7a9
+2c00:8c43:b374:f417:d231:9cd9:f1e4:3f10
+2407:ea1:140a:9e31:ac42:3721:d467:f8b0/128
+fc00:e0bd:b7e5:efd4:fe43:40aa:c4cc:3722 # tor exit node
+2c00:628a:92d::/48 # scanner node
+2600:fc91:44e2:4105:6fe4:ff68:d419:18f2 # scanner node
+2a04:5102:342e:d4af:6f20:40f9:980b:8844 # spam source
+2800:94a:2b8c:15db:a168:8601:da65:9e83 # threat intelligence feed
+2600:c387:7b6b:7e55:4493:a367:757d:73c9 # scanner node
+2620:19f8:708d:a8f3:4860:6230:c708:2c91
+2a06:d0c5:4a02:e1cf:a8a7:1322:9515:5722 # tor exit node
+2a03:2747:20f6:e99f:5899:9f8a:768e:bc72/128
+2400:5c6a:a97c:864a::/64 # malicious host
+2606:e53f:265b:65f8:3505:a70b:b06b:c105/128 # suspicious activity
+2001:101b:52fd:d0e::/64 # spam source
+2606:89b1:408f::/48 # threat intelligence feed
+2a00:fc0b:a8a3:b670::/64
+2800:bcc4:f610:3f6e:eea:f15e:3c9:f33b
+2c00:941b:76df:d59c:89f2:3a78:4272:a2ec
+2003:7788:3450:da9c:10e5:7041:a952:673e
+2620:43b7:112:d446:c9c1:93c4:16b1:24de # tor exit node
+2a06:a53d:140d:4d47:f44f:d098:33f3:3aa5 # phishing origin
+2a06:1e03:f7ab:849d:fd4c:d04a:d5bb:467f/128 # tor exit node
+2a02:c8d4:cdca:15a3:8902:3255:7cd:64b4
+2a06:29ff:6a17::/48
+2620:ed9d:8f52::/48 # tor exit node
+2a06:5ed1:4337:f664:3b0b:c169:a587:1cc0 # phishing origin
+2800:f318:2c4:5ab:fb2e:ff64:faf4:3228 # suspicious activity
+2a06:fc7f:80fe:1b0e:5426:2d3e:5337:96f3/128 # scanner node
+2800:4568:9bff:b750:eed9:91cb:febc:1801/128 # proxy server
+fd00:19fb:17b0:6e74:90b:520b:ef10:d2e0/128 # scanner node
+fd00:2d21:7c82:2961:8d26:7734:d1ae:ea74/128 # suspicious activity
+2800:2b2:66b9:1496::/64 # proxy server
+2003:cb54:c8d:1b80:6710:14d1:3b7:f38 # known botnet node
+2a02:355d:aac3::/48
+2405:2bda:d8:b9ac::/64 # malicious host
+2a00:93e4:27b7:798f:fdb4:4162:4c75:c4bf # scanner node
+2800:8e90:8980:86f1:b52c:55ba:1bb8:85e9/128 # tor exit node
+2407:3b38:4134:29e8::/64 # malicious host
+2604:9a65:d080:472a:c5a0:d02e:66e4:6ea5
+2405:7af9:2bbd::/48
+2003:a98d:68a5:add1:49e6:92df:6db5:98f4
+2600:673d:fa0d:9bb::/64
+fc00:6d3c:6756:868b::/64 # malicious host
+fc00:f3f2:5812:d294:2633:caed:43:e366
+2a00:54a5:d2:d922:799:cd35:df46:e10f # scanner node
+2405:1b09:2371:4216:745a:f4c1:ca39:6858 # proxy server
+2620:c991:dd3a:6691:9797:254a:b378:873d
+fd00:4e2b:c18c:81b9:7cf4:357c:6293:cd8
+2407:4170:ed35:54a4::/64
+2a06:ecd7:6985::/48
+2407:41a7:c6a9:de1a:4e3f:d8f2:d72a:62a2/128 # threat intelligence feed
+2a06:226b:d02f::/48 # suspicious activity
+2c00:79e2:1cea:8fd1:5da3:c46c:3633:4b38/128
+2003:3a4c:beb2::/48 # proxy server
+2c00:e986:b4b4:2043::/64 # malicious host
+2a03:dd5:525c:372d::/64
+2606:e92c:5f27:4fce::/64 # malicious host
+2003:f567:9761:4e5f:3661:ba28:26cb:a5b # proxy server
+fd00:1f27:787c::/48 # proxy server
+2600:aecf:3a3c:2a3c::/64 # proxy server
+2604:d670:620:bf5e:e53f:edc8:9637:628e # tor exit node
+2600:7d87:9b11::/48
+2407:31cc:3981::/48 # suspicious activity
+2407:d92:587a:e37e:e329:96c6:4bea:f9d8
+2800:a213:c300::/48 # malicious host
+2604:2063:866c:63fc::/64 # phishing origin
+fd00:9e0b:fb2a:4c67:54e4:97a3:def1:c09e
+fd00:e97b:9206::/48
+2407:2a4:406e::/48
+2620:cb2e:e9a3:b267:a8c:88c0:6fc4:46d0 # proxy server
+fd00:525c:43d3::/48 # scanner node
+2c00:783d:14c2:277c::/64
+2600:a5f9:9762:a49b:64af:7230:d411:9e9d # known botnet node
+2400:476e:c070:520:4f31:5c65:864e:c630
+2400:aff7:5b7a::/48 # known botnet node
+2407:13ac:7aea:aa81:a88e:56f7:d407:f2a3 # phishing origin
+2a04:6dc:2de2:81f7:20ba:49b0:714a:780d/128 # suspicious activity
+2620:3ff9:6e74:fcc2:264a:75db:258d:e22/128
+2a03:fcb9:8b7d:2a11::/64 # malicious host
+2604:f528:9589:a8d4:7181:24f:68d4:5ca4 # scanner node
+fc00:588a:8fd3::/48 # phishing origin
+2620:65a9:4e20:5b19:31ad:2153:b14b:792b # tor exit node
+2003:165:3ede:79a1:72c9:96f1:f4d0:827b/128
+2407:e074:f5ba:bc5b::/64 # suspicious activity
+2a03:a1a6:cfa3::/48 # threat intelligence feed
+2003:3e04:2993::/48 # phishing origin
+fd00:b2c3:beaa::/48
+2405:e3ec:a863:bc3a:dbc6:10b6:c753:7d10 # scanner node
+2407:6bb5:2ef1::/48 # malicious host
+2620:e131:47fe:633b:f7d2:9f2e:438f:64c8/128 # scanner node
+2a03:af07:118c:c366:a703:3a6f:25b8:4c49 # threat intelligence feed
+2a04:fbb1:70f6:7bcf::/64
+fc00:cc3f:6db7:c626:17b9:5697:e83c:9e84/128
+2a04:4a23:4b6f::/48 # c2 server
+2800:c44b:29c2::/48 # phishing origin
+2a00:e9f0:9d40:3390:8455:b6dc:f802:8f67 # c2 server
+2407:c535:3100:859:745:6e1b:3320:9198 # phishing origin
+2620:2c6c:dcb:eb81::/64 # proxy server
+fd00:d408:8662:1515:d753:9690:6049:723d
+2604:4c67:f436:46b1:c35a:98c6:caf3:4452
+2a06:11ae:63c6:b175::/64
+2600:2373:3767:bc3a:1082:634f:e192:b8ed # known botnet node
+2a04:88e7:5e7d:e59c:8384:d2d5:c83e:6b45 # threat intelligence feed
+2604:2a4e:5e4e:e139:5a84:9097:89f8:4c7b
+fc00:fb17:273e:78fd:a5b7:d74e:a74a:b7c7
+2001:ebf7:2a8:7138:ffe3:c238:3ebe:9c37 # phishing origin
+2a04:7f27:bd48:e149:cca9:501c:9547:eaf7/128 # spam source
+2800:164e:5bbd:d9a7::/64
+2a03:5b2c:9eda:415a:896a:304d:e285:d199/128
+2003:1463:c3ec:6745:6c80:acf:48c7:67c0/128 # threat intelligence feed
+2a00:a58b:f154:f94e::/64 # scanner node
+2a06:6358:6ef1:f500:d59e:24:b6e9:5d7f # threat intelligence feed
+2620:5ace:305c:1638:2151:1466:3da5:505b
+2600:d9ed:ddc:84b6:cb83:8f17:f690:6c2b
+2405:b01b:5bdf:54cd:82df:7b1f:df26:ec25
+2606:1563:cec:2ece::/64 # c2 server
+2c00:947e:1f34:3eca:76f:42c8:8a23:7bd0/128 # tor exit node
+2c00:30dd:ae3b::/48 # scanner node
+2a00:88ed:4b4a::/48
+2a00:ccfd:4f2a:9bfb::/64
+2400:fdf5:9008:9db8:fb00:ae48:f0a:9a19/128 # known botnet node
+2a06:b39c:e82d:9add:c531:a360:61e7:5d53 # suspicious activity
+2a06:fe18:4fcc:c498:13b6:2493:b583:118a/128 # suspicious activity
+2a03:a616:3cf0:f3d2::/64 # known botnet node
+2400:77d9:b756:d096:6c10:578b:f519:eb90 # malicious host
+2400:bc88:5c7e:b558:cd4f:9f3c:d545:5099/128 # suspicious activity
+2a02:874d:32d8::/48 # phishing origin
+2a03:cec2:8910:2109:8370:a268:8ea2:9fdf/128 # known botnet node
+2600:ee6e:71c1:67::/64 # scanner node
+2a00:459d:f28:ca6:2d85:bb72:aa16:2bd4 # phishing origin
+2604:161b:8d98:d1a7:e8b1:fb29:6109:7bbe/128
+2a06:32c0:c459::/48
+2606:8b95:64b4:78c5:ea0:2703:3007:f7f7/128 # phishing origin
+2407:edcc:cf12:e856:482f:1586:5764:88d2/128 # known botnet node
+2600:78aa:191d:a6a6:1dd:1a98:2d06:8bcf/128
+2a02:ab2c:622:51c0:5e7c:c928:e099:b28c/128 # known botnet node
+2a03:b88f:5590:ca62:c598:7911:6a92:df66 # c2 server
+2600:1136:806f::/48 # threat intelligence feed
+2a03:ad24:1373:c650::/64 # spam source
+2800:923a:5318:a6ef:5cc:b758:15e1:5862
+2a03:2659:4274::/48 # phishing origin
+2a02:5de9:2b77:5781:8ed9:1043:53a1:f19
+2606:5473:28c:68cb:15dc:df71:5d56:52d/128 # threat intelligence feed
+2604:7342:bd8e:e2e3:1991:9e1c:d9ff:a7c0
+2606:ff2:820f:2f40::/64 # phishing origin
+2a03:4d2f:6697:a226::/64 # threat intelligence feed
+2604:912b:3c2c::/48
+2a02:4a35:d9b3:8fbf:2539:dd07:7c9a:fcbb # spam source
+2a06:fd50:8384:6362::/64 # c2 server
+fc00:22b7:aded::/48
+2c00:77ae:6287:97ec:6b44:5a07:9be5:4d84
+2800:94da:696b:27fa::/64
+2407:4130:f813::/48
+2a06:16b1:61fa::/48
+2001:da27:f006:b1c9:3243:1ef4:345c:6576 # c2 server
+2620:692e:e3a9::/48 # threat intelligence feed
+2a04:99a7:e66e:a16e:4b8d:301b:4294:5463
+fc00:fb3c:235:8e36::/64 # phishing origin
+2800:47d0:6c82:35d::/64 # phishing origin
+2606:c6ea:5bc5:7bc4::/64
+2606:32e5:fc47:5e19:760:68ec:b07a:8c60
+2001:b976:aaa8::/48 # scanner node
+2c00:38ea:72:bd57:551a:adca:ba7a:9115/128 # phishing origin
+2405:e23d:2e1a:4f09::/64 # suspicious activity
+2400:eb56:e3b1:930f::/64 # known botnet node
+2800:c731:3eac:a058::/64 # phishing origin
+2600:c278:3b58:ce55:bfed:41d3:7877:130c/128 # known botnet node
+2620:892f:3322:f425::/64
+2400:c5d2:db1a::/48 # c2 server
+2604:af82:66d5:a197:1307:a7a5:4450:5360
+2407:9a89:399b:f369::/64
+2606:6819:1156:17a::/64 # threat intelligence feed
+2003:3ed9:2b14:47fd:dd12:f497:4671:9a0a # spam source
+2606:8586:3a7f:95c8:88d0:cb71:5021:81cc # spam source
+2001:66cd:843f:48e:8133:cfdb:8d46:4254
+2001:2961:7bb4::/48 # c2 server
+2c00:432f:730c:15e3:ab01:fba9:6857:7a31 # suspicious activity
+2407:b545:4736:5a44:11a7:15f3:8df2:637e # suspicious activity
+2405:7a2:894e:e1d5:5a05:97ec:20e2:a41f # spam source
+2400:547d:4dc:8cea:4137:dab4:5854:1e3a
+2400:d4fc:17e5:b734:635a:57a6:fe33:afe4/128
+2a04:a950:8e2f:67cd:9a53:c4cb:724b:9455/128
+2606:19fa:6fb4:8cb8:54c5:87c1:17f8:dca6/128 # scanner node
+2800:322f:746c:7555::/64 # proxy server
+2a06:e640:c564:4684:1eba:83a1:912:67a0/128
+2a03:c6c9:ca9:e2e7:7881:8ae0:629e:4995 # spam source
+2400:e996:7fa6:86dd:d0f5:259b:5ba6:4e4 # tor exit node
+2a06:6935:943c:f9ee:a567:c765:6af:3d8d # scanner node
+2003:171d:91de:753b::/64 # proxy server
+2a04:b75:8af:d6bf::/64
+2a04:bc7d:1960:e3bd::/64
+fc00:be67:c0ed:cc4f:3d94:2335:c4b2:2dda # malicious host
+fc00:451d:1a42:dbfc::/64 # known botnet node
+2407:9a64:277a::/48
+fd00:db60:eb5d::/48 # malicious host
+2600:7dc5:f5bf:a052:6bb3:349:8ca7:dd9a # phishing origin
+2001:199c:afef::/48 # threat intelligence feed
+2a00:79dd:fd8a:b6fc:4a9:3b5c:f012:f897
+fd00:a2d7:c6e4:9ae2:da98:d457:6b57:e448 # threat intelligence feed
+2a06:5fd:3536:9981:a2cd:e124:71e9:4464
+2407:76e5:f716::/48 # c2 server
+2a02:1002:b18:8cbe::/64 # proxy server
+2a00:302f:9350:a79d:1f7b:7115:35f:9150/128
+2606:c9a7:be:e637:a0b8:42da:f363:5432
+2a03:12b:c554:9ea9:e90d:a8ae:bd47:4565/128
+2620:b1e2:5882:6d8:6f96:a50:7ef1:29d3
+2003:91a4:1c20::/48
+2c00:803a:d2fb:176d:d79d:8fc:a45f:705f # known botnet node
+2a04:9132:3ca8:5737::/64
+2c00:463c:a154::/48 # scanner node
+2a06:ffd6:3c31:1d57::/64
+2003:6955:8656:a7bd::/64
+2c00:5d5b:7c8c:8ded:6c24:35ec:8614:3819
+2c00:541f:d3f0:be8b:873c:ad64:8d1b:e54/128
+2405:17e5:8ea0:a646:904:f6c1:6c94:aade/128 # malicious host
+2405:98bc:3bdb:d14b:108c:5d6b:795a:e244 # proxy server
+2400:877a:db5c::/48
+2c00:4084:fff9:fb90:93b9:4338:845d:b691/128 # c2 server
+2a04:de6a:9774:f201::/64
+fd00:636:8b83::/48 # c2 server
+2400:efa4:dbed:2497:bd60:434e:4a54:cc8d # threat intelligence feed
+2606:69b1:f64:17cd:8741:b8b0:a78d:6a9b/128 # tor exit node
+fd00:b939:663a::/48 # c2 server
+2001:535e:f732:c83c:f397:db3c:e935:d842 # scanner node
+2a06:4872:4883:cc73:beb3:c6c1:1a0c:34f1
+fd00:65ed:d96:6469:4d90:97b7:6ff5:72a2 # suspicious activity
+2003:5c44:bca6:f68d:ee5b:9f43:f076:99d0/128 # tor exit node
+2620:ecd6:1044:6e64:9ea0:b221:622d:6e7a # threat intelligence feed
+2003:671f:f2b8::/48 # malicious host
+2606:eaac:665b:fc8c:6e9f:fc6c:9779:bcd3/128 # tor exit node
+2a00:fc26:ca39:7013::/64 # known botnet node
+2606:fc5e:771e:2f1c:1f87:3ec2:39e5:966f # phishing origin
+2400:9386:f209:820a::/64 # scanner node
+2400:788e:f0ff:61bc:c2bd:e047:1d9f:7316 # threat intelligence feed
+2606:8279:3b10:ea9f:4fed:dd50:9cdf:9f8a # known botnet node
+2407:4e7f:c54d:e98::/64 # phishing origin
+2604:61d5:6c92:4b4f::/64
+2a03:45d1:adc3:8f39:3bd3:3717:1015:bb97 # tor exit node
+2a06:93b6:dab9::/48 # known botnet node
+2c00:8789:727f::/48 # suspicious activity
+2a06:e65e:abf5:a48b::/64 # scanner node
+2a00:f359:e049::/48 # suspicious activity
+2800:692:ddac:b3ad:f8ff:5cc6:df77:6bd8 # spam source
+2a00:6694:92c1:3ba6::/64
+fd00:121c:daca:15aa:3720:1fcb:6c33:5829 # tor exit node
+2407:2120:67be:3e24::/64
+2003:29ba:fb7d::/48 # threat intelligence feed
+2a02:b2a7:b65b:ebe7:96e4:3202:9f1b:2b3f # spam source
+2606:aecb:3e41:b8ed::/64 # known botnet node
+2a04:46ec:eb6d:e274:3116:64e8:d4b0:cfb6/128
+2001:4c57:e525:e6c8:f9ec:e25c:f688:3bbf/128 # proxy server
+fc00:b344:14f7:12f3::/64 # scanner node
+2a02:735f:ef03:642f:2787:72ba:a684:aaa1 # c2 server
+2a00:35cc:92fc::/48 # spam source
+2a02:d40:dd4f:c12e:d36c:b63b:18fa:f32f/128 # scanner node
+2a04:9b08:e2c4:73a4:94de:e7f:36e5:a56e # threat intelligence feed
+2c00:2bdb:e192:b1a:83d2:6de1:807e:1a3/128 # scanner node
+fd00:86b7:9ad8:6551:fe61:f987:4ebb:1d0/128 # c2 server
+2a04:f28d:2ce6:1041::/64
+2a06:6bb1:274e::/48
+2407:ddc7:54b1:bbb6:5812:5482:f310:8ec7 # c2 server
+2800:a6ee:92bb::/48
+2a04:1097:ddd4:9f59:e41f:3bb6:4b62:b3be
+2606:13d9:7e7a::/48
+2407:3b5a:506c:9de4::/64 # tor exit node
+2600:a3fc:4186:9fb4::/64
+2600:ba:9706:d033::/64 # scanner node
+2600:82de:f476::/48 # malicious host
+2a03:1291:ad38:fcec::/64
+2400:e4db:893e:a0b4:3c6d:7145:3765:a234/128 # scanner node
+2620:5a52:3be9:1147::/64
+2600:2dd:4661::/48
+2620:c228:4ce:6a23::/64
+2600:b4f3:5feb:2e62:9676:ed3d:a569:ca42 # c2 server
+2405:5a50:6c89:6b8c:8be5:e221:d461:6085/128 # tor exit node
+2a00:9b4:fb2d:865d:2a58:cb36:f8dd:12f8
+2604:eaf1:1ee9:2a9a:f5a8:ae7d:17df:e466/128
+2001:304:be09:14b5:d4e8:a6c2:10cf:f320/128 # scanner node
+2003:2149:27cb::/48
+2407:1647:6e89:88a6::/64
+2c00:d2a2:ced:5c16:f346:44ab:ba46:821f/128
+2c00:e0bb:8ecc:1db6:9200:64bd:7ad9:f92e # suspicious activity
+fd00:131f:61ac:6e1b:c98b:6669:9040:3108/128
+2620:16e3:33e6::/48
+2405:5e95:bb3b:f673:2f11:d6b5:3b0e:fa41 # c2 server
+2604:43f6:408b:b245:1e61:3df2:a888:2081/128 # c2 server
+fd00:bcab:f9c8:7340:2293:4954:8c6c:cdbd
+2606:7b26:8fa0:3ddc:5713:252d:39de:8a18
+fc00:8fcb:8f5c::/48 # phishing origin
+2606:4b2b:7ede::/48 # c2 server
+2003:539e:fb8f:2d5::/64 # tor exit node
+2606:420c:4634:3193:a209:5210:6ff0:f543 # scanner node
+2606:6305:1437:ce43::/64
+2a04:d37:a3ac:2bde:4ac0:2fd8:53c7:969d/128
+2800:5d79:fac5:a2e2::/64
+2a00:97fe:e801:fe5:17d3:f50a:be1c:902e # known botnet node
+fc00:b5de:a280:9fbf:dfc8:12eb:89a0:8ef0 # scanner node
+fc00:b4de:81e8:153e:4afc:cbde:bf63:b6bb # scanner node
+2a04:e1ca:20ea:3e60:fb59:d6b3:1ef7:12e2 # spam source
+2600:2880:e993:f48e::/64 # phishing origin
+2a03:2aae:2f2b::/48 # c2 server
+2407:eb22:494f:118a::/64 # tor exit node
+2620:afe0:1886:9f61::/64 # malicious host
+2003:7fd1:fd3b:701c:8be9:8337:78fe:4d60 # c2 server
+2407:bf55:e14:b5a8:3f47:5ada:5ff5:2eae/128 # tor exit node
+2003:b7d7:b349:8df6:f45a:8a3b:367:cefd
+fd00:25fb:56b8:40e0:e000:b26a:dd3a:5146 # scanner node
+2606:a90d:93e8::/48 # malicious host
+2003:34b6:1aa9:d5bc:1d5:cda8:af7:e32d
+2604:bd94:4402:8b66:783d:c420:1fd8:e0ca
+2003:88ba:b2c1::/48 # c2 server
+2604:d96c:f3bb::/48 # known botnet node
+2a00:3736:f307:8847::/64 # tor exit node
+fc00:7322:6826:e6e3:1d21:7f8c:6528:cf3a # spam source
+2a06:c9c1:1ea4:cf25:2037:3d76:c62c:1551
+2001:9a4b:fbb1:82c4:1d55:97e3:890b:2674 # phishing origin
+2600:c708:5e36:516:5c1a:332b:e034:50ac # phishing origin
+2a04:d482:d7a5:3ca8:e0fe:773b:758:aede
+2600:cded:9af0:25f9:7e10:bc02:c27d:54bc
+2400:f7f0:7cd9::/48
+fd00:a18c:ef76:6623::/64 # spam source
+2003:c934:69a0:dfc8:c2a6:7d07:9317:b089 # tor exit node
+2a06:56e0:57ad:3429:1045:6693:9ae6:caec
+2a06:7ec7:1a1e:78a0::/64
+2a04:1c7f:9ab2::/48 # proxy server
+2400:b22a:bba8::/48
+2001:49c6:3ad8::/48
+2a03:7ec5:7102::/48 # threat intelligence feed
+2001:b92a:cedd:f2b1:d20a:48d3:ca22:eac9
+fc00:ef49:fd0d:234e:fe4b:b211:5936:3888/128
+2a00:994e:899b:6c0:2b2c:f923:871:38e1 # tor exit node
+2407:9f83:8d74::/48 # known botnet node
+2606:4327:6b8a:e4c5:ea12:2b1d:6f6a:9934
+2a02:1ded:cf9e:82b6:1309:7682:5caa:ec10
+2a02:36a4:69f5:15fd:959f:4aff:935d:92a4 # proxy server
+2a03:69c7:f5e2:bcc9:3a72:1bf6:fb39:cee9/128 # scanner node
+fd00:62fa:88bb:37ae:9496:6d0b:d748:2bb1 # malicious host
+2a02:5b81:f3fe:179c::/64 # tor exit node
+2620:337b:1875::/48 # proxy server
+2a04:3e88:1419:60f6:6284:b761:6d06:1a61
+2620:58e9:819:7364:eb25:a842:7857:3014 # scanner node
+2620:5247:a840::/48 # scanner node
+fc00:860b:ef34:d3b4:d02a:3f51:76f4:bf20 # c2 server
+2604:a8fe:f36b::/48
+2800:4e01:8633:58b0::/64 # scanner node
+2800:ff45:fc0d::/48 # suspicious activity
+fd00:3b8e:c3c4:fd11:4b95:fb13:97df:ea04 # scanner node
+2405:4d72:e95f::/48 # threat intelligence feed
+2001:b233:1778:5921:1c56:81cd:bed8:4eda # threat intelligence feed
+2003:6696:fbb7:73e7:580d:282d:6e04:77f1
+2606:5111:81a3::/48
+2a02:6a93:c92e:a992:a9ef:4a2:f590:8364/128
+2a03:10b0:888c:f274:b685:8cf3:cc45:744a/128 # phishing origin
+2606:73e8:a4e5::/48 # proxy server
+2c00:2fb5:ba75:18bc:5c78:7864:ce6e:21b1
+2003:2635:62e0::/48
+2a06:7e4c:16d7:fa16:2d:1831:e272:f7e2/128 # c2 server
+2a00:4628:7bcc::/48
+2a06:11d:2bec:f7fc::/64
+2604:45fd:5d97:2e16::/64 # scanner node
+2405:5e08:3948:273c:a690:3354:dbb:72dc/128 # malicious host
+2c00:83bd:c14e:3616:328f:baec:57d1:bfa4
+2a04:5e4:5d4f:3de7:c170:4ac:fb14:a894
+2a04:1e43:84a7:200a:8f0b:3482:3af7:2149 # proxy server
+fd00:6489:4520:66da:1fd:c7ab:5dc2:fd30/128 # spam source
+2620:e64d:44e5:7af0:4696:c22f:27e0:290 # tor exit node
+2407:7669:db8a:d4ad:3ff1:7f0f:1311:5998 # c2 server
+2400:cae2:fff1::/48 # suspicious activity
+2604:a23b:4f7e::/48
+2800:dff0:23df:78cd:60f6:9fb0:f94d:4b75 # c2 server
+2800:9a8d:162:b2db:d137:bcd9:3f33:687a
+2a02:23b7:ebbe:4dc4:bac0:3f08:bd64:4d89 # proxy server
+2620:eb11:ecb7:7f91:1f95:b801:2807:a0d6 # c2 server
+2407:d1e7:6004:8bf0:3471:22ce:27d2:8a14
+2003:e650:ea1:8cc3:9c83:7cc8:916a:6992/128 # malicious host
+2600:2964:bf16:74e4::/64 # malicious host
+2001:ae51:2f52:da86:a3a8:eb4d:9433:ffc7
+2405:dfde:b2de:4191:726d:6dd1:33d2:5a38
+2606:93e1:72b4:8ead:7c47:58a6:8de0:1634 # malicious host
+fd00:5769:c0e:569b::/64 # tor exit node
+2604:9d03:653c:d39e:1da9:8684:aad2:14ca # tor exit node
+2407:31fa:7fe9:14e7:b9a4:b16b:de75:bf17/128
+2620:c0d8:40c1:4667::/64 # malicious host
+2407:4cd2:500d::/48 # scanner node
+2c00:8dde:790e::/48 # c2 server
+2620:9bd5:374::/48
+2606:4722:39b4:2f4b:378e:155b:9d0b:b815 # scanner node
+2604:96ea:d592::/48 # proxy server
+2a02:f99c:25c4:d50f:969e:61de:8f6d:aef3 # proxy server
+2a06:1e52:f0e0:17a1:51fe:c4cf:3dc2:17d0
+2c00:f91e:972a:1cdb:4b68:c091:843f:c6f7/128 # scanner node
+2405:d48:f554::/48 # known botnet node
+2400:d487:c24f:b2e9:1cb9:49fc:8a59:8b3b
+fc00:dd4c:7170:508d:4a45:4122:b9b2:2c1e/128 # scanner node
+2a00:6a55:4c90:c524::/64 # scanner node
+2600:1794:af19:ceac:1d6b:3681:35b6:9362/128
+2800:d2d0:67ea::/48 # c2 server
+2c00:b2eb:c95d:49fa::/64
+2003:d994:9be4::/48
+fc00:d550:24af:42d3:e7eb:5f9d:f65e:e0c9/128 # suspicious activity
+2a00:7b55:affa:5dc::/64 # known botnet node
+2800:6143:1eff:87bb:b4f1:9775:651b:c839 # spam source
+2407:b4d5:a7d7:9f1c::/64 # threat intelligence feed
+2405:9b32:30dc:a525:2794:99c0:8a0f:6a31
+2407:9594:b5ae:bf7e:f82d:b90:2920:51c3
+2620:248f:9c6b:d59a::/64 # spam source
+2604:a610:fa8c::/48 # malicious host
+2a06:3784:aacb:d8c7:8f36:272f:3b1f:bc2f
+2800:4162:62e5:d436:74cd:4f16:51b3:47cd # spam source
+2407:8f22:9206:58ba:2587:31e0:4f30:8497
+2a06:f991:b055:4438:a77a:c94a:d8db:854b
+2405:897d:ab27::/48
+fd00:52c4:3b6b:6163::/64
+2600:9781:6c21::/48
+2c00:b2:2e79:7425:2cc3:36c:58e4:b05b # c2 server
+fd00:ac13:8390:5d77:6046:97fb:32a3:6b32 # proxy server
+2407:d5:7c51:4379::/64 # c2 server
+2407:dedc:77be:1397:d00d:d5a9:7de2:9ab7 # threat intelligence feed
+2a02:8df2:8232:6c89:5048:3a51:8dbc:c957/128
+2400:d25a:2f26:89ea:645b:2bc:2d72:ee89/128 # spam source
+2606:4732:6231:c3:19bf:ef7c:458:d438 # proxy server
+2800:61db:8f2f:92b1::/64 # phishing origin
+2c00:9a57:df9f:e02f:ac3b:6f35:b82b:1da0 # spam source
+2800:16a7:a6fe:2401:5457:da0:2f2:ac57 # known botnet node
+2604:8089:8b28:feaf:bc6a:4ccc:ee76:a325
+2a04:eca7:3bb1::/48 # malicious host
+2c00:5b79:e49b:b67:967f:c30f:ea32:3666 # proxy server
+2606:4a59:fc73:a4bb:4c98:7c92:5b6f:b64c # malicious host
+2606:c1f7:31b2:d95b:dec0:11a3:c1ff:1d1 # known botnet node
+2400:2ffa:fb6:a1f4:ddec:5514:3e29:cc92 # suspicious activity
+2800:a33b:20e6:b115:7a67:b4a0:2316:5343
+2001:7116:caf6:cbf:695b:3cd1:4496:384b/128 # suspicious activity
+2a06:75a1:eb5e:c638:7053:a72a:4339:edfc
+2620:5f41:7de1::/48 # known botnet node
+fd00:803:251e:2bea:d39b:4043:ea:fe73 # phishing origin
+2606:32fb:23df:a405::/64 # proxy server
+2604:3b12:9d5b:8326:3e9d:2526:14f1:a32/128 # scanner node
+2620:7b2:2ce6::/48
+2a00:a66b:b3a6:24f8::/64 # threat intelligence feed
+fc00:63:4132:c597:a9cd:e73f:1bba:2652
+2400:8030:7abd:38b8::/64 # tor exit node
+2003:f210:694:98a7::/64 # phishing origin
+2400:5fb5:da37:a99c:bc3a:42ad:eee1:a6b0 # phishing origin
+2001:8df2:c7e3:831f:6a4b:33d:338a:dab7
+2a03:6f7:9973::/48
+2407:3a40:c002:43b7:52a9:ceca:87f8:1328 # spam source
+2620:d4d4:1018:5205:a6a4:baf3:979f:eaf7
+2407:1b71:3bb3:14d4:4ddd:161c:97b8:d5d6/128 # malicious host
+2407:d317:86aa:db3e:e014:f026:d2ec:98f/128 # threat intelligence feed
+2800:fd31:285f::/48
+2800:589a:f5d8:3091:631f:31d8:4ba4:3995/128 # scanner node
+2a04:2be9:932a::/48 # suspicious activity
+2405:92ae:104f:5f37:2168:5d1b:15e2:805d # proxy server
+2a04:b102:e106:4333::/64 # threat intelligence feed
+2604:6c27:33b5:42f7:3123:d704:91c9:ef9b
+2405:79e5:c3e6::/48
+2400:f80:7d26:5e8a::/64 # malicious host
+2604:c576:2cb6:aa57:7b12:4e0b:a347:e8cf/128 # malicious host
+2604:9087:cea8:84cf:f0d0:d668:353e:c2de
+2a00:d21d:d86b::/48 # spam source
+2620:9117:83ed:9e5a:eb10:56bd:91e5:8284 # tor exit node
+2a00:9c55:10d5:77b:2eb0:beb9:5416:1c07/128 # proxy server
+2800:721c:66b:67a7::/64 # phishing origin
+2a03:3bde:7281:11b0:bd64:b723:b20c:499b # known botnet node
+2003:4d6e:15e::/48
+2a03:3c1:98a4:d4b9:56c8:9d82:5ba7:b628 # spam source
+2a00:765:192d:8d73:bdc0:8990:3d73:3adc # c2 server
+2600:3bec:fe2:7d3f:5cb4:33e4:177f:f784/128
+2606:b51d:8672:a983:37d9:29db:432c:6eea/128 # scanner node
+2a06:aecb:d733:ab70::/64 # threat intelligence feed
+2a00:af0a:3c56:38c7:7f3d:cd9a:2d0b:8a94 # c2 server
+2407:7bab:6e8c:9ef8::/64 # spam source
+2a04:9875:1746:b923:d8c3:271a:43f4:d9f1 # phishing origin
+2407:835:eb4a::/48 # threat intelligence feed
+2620:6f35:db01::/48 # tor exit node
+2400:76aa:1941:997:465b:711d:484e:7a5d/128 # proxy server
+2620:8feb:3848::/48
+2c00:f441:d17a:1e60:f3f4:d8f3:198e:b13f # threat intelligence feed
+2407:61b4:90a6:6847:e50e:7f4b:d34a:4512/128 # known botnet node
+2405:d3ae:c8cf::/48 # known botnet node
+2407:dd5:c3e1:ff19:1728:6c75:6980:a326
+2c00:adb8:1220:2f29::/64 # phishing origin
+2400:207:e717:e238::/64 # suspicious activity
+2620:fffd:7752:b335:674e:cd2a:7168:27ff
+fd00:e332:d317::/48 # known botnet node
+2400:6956:52b2:ffd4:52ec:670c:e891:c4b8
+2604:2c5f:ebf2:48d::/64 # proxy server
+2a04:dd89:bcb1::/48 # scanner node
+2620:96f1:97d0:5254::/64 # suspicious activity
+fd00:23a9:25d1:a042:6af5:f122:d5a1:aade
+2a06:781e:df44:ef65:f0c1:33f9:ba84:d0b6/128 # tor exit node
+2400:456d:9559::/48
+2606:11ce:aa70::/48 # threat intelligence feed
+2620:d008:4bcf:e1dd::/64 # known botnet node
+fd00:e09:f41b:7d17:e315:9dab:35dc:b2ea/128 # known botnet node
+2a02:87f2:29c2::/48
+fd00:c4a2:b86e::/48
+2001:a384:287e:947d:3d8b:90c1:f5ea:c422
+2003:c7ee:b4d3:cee0::/64 # tor exit node
+2606:ae:90a4:8aab::/64 # known botnet node
+2a02:38eb:ab1c:63bc::/64
+2405:7c54:4d1e:55f8:421d:9b3d:aa49:7458/128 # malicious host
+2003:132:dffb:8ce7:83a6:3f41:9bc2:cc71
+2620:3c93:c1ec::/48
+2003:546f:2e95:2ba5:b03a:1dff:9ba3:f56a/128
+2620:dae3:3a4c:6b30:a86b:ab24:20bb:47a9
+2a02:37cb:14f3:3529:e7d9:c866:6a4f:85f3 # tor exit node
+2604:3a4c:5833:969b:9162:6cf9:ce2f:3c1c
+2400:640d:9270:3b47:f86e:5a78:c858:ed8a/128 # scanner node
+2001:60dd:df06:9b63:7613:c480:6516:a3d6 # malicious host
+2a04:8ad3:582e::/48
+2600:a3ed:897a:7947::/64
+fd00:1236:b37d:d118:fdec:a57d:2c77:37a5/128
+2405:8335:6163:d77a:eac9:ccc3:7c3:3773 # tor exit node
+2a00:d0eb:e826:6b1a:2799:d7a3:d173:abc # proxy server
+2a04:ef33:5a9:eca0:98a8:1fb1:65be:126b # proxy server
+2a02:24d1:240b:2305:797b:ec7b:4ce8:4823/128 # malicious host
+2405:c32:499:2574:98d0:fd85:f2d0:d94c
+2620:bbb9:65bb::/48 # scanner node
+2407:e0af:df30:1cc4:2755:9da8:d08:f0d6
+2620:450f:2196:97eb::/64 # suspicious activity
+2600:9b17:290f:acdc:a1b7:2a14:5018:adf5/128 # known botnet node
+2620:efba:873b:318b:45f:79c4:844:7990/128
+2606:280f:93b9:47d9:3a2b:e5c7:97c:3460
+2001:96ac:d3fe:ddbc:7ccb:5f05:e7d7:c022/128
+2800:6540:50a6:e172:370b:1fb9:64f:a760/128 # scanner node
+2620:165d:134f:3170:af6:880f:c6fe:246d/128 # known botnet node
+fd00:8295:a274:d779:1044:9fb5:951f:eda5/128 # tor exit node
+2405:a47f:d99b:6b4a:7d7a:f4bc:3d8d:7daa/128
+2a02:177a:4fc3:e32::/64 # threat intelligence feed
+2003:921a:2e6d:9cb3:c09b:a01a:24ef:453e # phishing origin
+2800:7013:3d8e:8797:f6a5:c071:40a5:f76d/128 # known botnet node
+2003:9611:4c3:fbfe::/64 # malicious host
+2a02:3e7b:bc6a:c3a0:7be2:2c9b:57:9ab3/128 # scanner node
+fc00:ed77:e3ac:c9b6:c430:4321:fb47:c9fc/128 # threat intelligence feed
+fc00:b876:daa9:f739:5671:545b:3fde:db1d
+2003:643:d613:f0a7:d68f:de20:9c9b:7cb8/128
+2800:aed:c1d6:deb4:bc59:97f6:ae75:735e/128 # spam source
+fd00:507e:c900:9e7f:9ea1:eadb:babf:af75
+2405:97ff:ed99:29d3:30dc:a17d:ea7f:db65 # proxy server
+fd00:7c41:1c09::/48 # malicious host
+2400:676e:9cf5:55c0:6851:39c3:f114:9438/128 # c2 server
+2a06:417d:a192:2e15::/64
+2a02:db34:15f:ef87:1bf3:38ce:e1bb:1326 # known botnet node
+2003:b0c8:e359:6e3c:5065:2ca3:fa00:4a78
+2604:3851:80e8::/48 # phishing origin
+fc00:e9ee:d393:839c:fe27:d46a:3b77:2b48 # scanner node
+2a04:8b3:8271:5e83:c4f4:2194:aaad:d0a9
+2001:779d:ce50:a844:79a2:1179:585d:b53b
+2a00:9569:f174:f2b6::/64
+2400:83d:8494:f203::/64
+2604:a7d8:e099:11f1:3e72:d511:b936:2e81/128 # tor exit node
+2003:f25b:24a3:12fc:9211:c4a5:241f:628d/128
+2606:b4d:4072:c2be:41c8:f2b6:ac72:b46e
+fc00:648e:f25:91c3:2194:eb0c:9d53:fd2c/128
+2c00:42a7:9394:864d:8b48:f2ac:118a:abb2 # tor exit node
+2600:99de:808d:4d90:680f:abb2:1def:268e/128
+2a03:adff:2a5a:d219:f7f:820b:ec4:7c62 # proxy server
+2001:859a:10dc:2e21:5213:6166:7968:9a85 # phishing origin
+fd00:1331:16f6:8620::/64
+2003:d11c:679d:77af:ca4a:a230:fe5:477d
+2a00:8541:59bb:1430:ae1:ab3d:53f2:80bc/128
+2400:88ed:f687::/48 # scanner node
+2a02:ab73:ca43::/48
+2a00:4d26:faaa:2741:10d5:af57:7262:fe67 # suspicious activity
+fd00:5e87:1bec:71c:13da:dab0:fb0f:8e0e # suspicious activity
+2800:7803:c0cc:943e:e350:d3f0:6813:14d5 # spam source
+2606:30e1:fe26:1247:bb5:f0cf:f369:9ef
+2405:714e:6dd8:e178:1f82:f562:a75:7817 # c2 server
+2001:7cc7:451e:7a19:43a5:ff0c:b49b:abec
+fc00:90e3:9528:a276:41b:db22:3a03:b99c/128 # suspicious activity
+2620:fe87:62c5::/48
+2a02:db7f:5d4b::/48
+2a06:6da5:e29f:38be:acda:b1d3:1a73:5daf # spam source
+fd00:6f36:fc19:4563:b048:35ab:26ce:35f5/128
+2800:707f:d7a7:3213:6651:cd60:1900:24a7
+2400:b73a:ae7:26d4:d9cc:c7a2:a3c3:75a5 # malicious host
+2a02:751b:2d44:506c:d459:36eb:e42d:2b72 # suspicious activity
+2407:b6d8:fe84:3fd4:7b7b:979b:e65d:7cfd/128 # malicious host
+2600:3d59:faad:574a::/64 # malicious host
+2407:87b5:3e23:7b92:a0d9:1aa7:cfa1:bdb4/128 # known botnet node
+2600:c59f:8c9f::/48 # phishing origin
+2a04:c10d:1b6f:af06:c9ec:7709:6110:692f # threat intelligence feed
+2a03:466b:398b:d8f:f874:7da3:351e:e05c # scanner node
+2a04:106f:22d3::/48
+2a02:f569:f785:e2ae:c084:565e:d25b:fb6e
+2a06:8a0e:c11a:228f:94e7:3abd:f090:e7ab # proxy server
+2a04:a267:3586:221d:cb52:3cc2:4881:882d
+fd00:532:2eec:7284:2486:43d:6e90:b1fe
+2405:36e8:4305:b881:244b:57b5:8382:a5e7 # c2 server
+2600:4af4:3d26:ecc5:abfa:cd70:95a9:9cb0
+2a03:c152:873c:7509::/64 # spam source
+2405:e9b2:4854:33ec::/64 # phishing origin
+2c00:6f4f:9e61:28e3:37ca:cb17:6e58:9a2d
+2800:8180:5660:521d::/64 # known botnet node
+2400:e2d1:b8bc:6a93:82ac:4daa:8fd4:439a/128
+2800:feab:7f91:c7b6:1d3b:75af:a8e4:ca20/128 # tor exit node
+2405:a6bd:b44e:9089:a525:cecc:57cf:6fe9/128
+2407:d2f6:3a6f:a52d::/64 # tor exit node
+2620:419:8af:3638:4e71:8e6c:a5fd:5712 # known botnet node
+2a02:a6cb:77fa:44dc:8f04:5f64:188:8a28
+2a02:7f0e:c879::/48 # scanner node
+2003:4887:33fd:fcb0:8537:7815:b23d:c6d # suspicious activity
+2a00:b027:b9df:e11e:84fa:78e8:e94:4833/128 # known botnet node
+2a03:8cde:af0c:7d46:be5:7d3b:eb36:fff1/128 # threat intelligence feed
+2405:505a:93b9:6618:d84e:8c02:66c8:9b60 # known botnet node
+fd00:c6ea:565e:eece:c919:9ced:cbda:e1d1 # suspicious activity
+2003:8361:e277::/48 # malicious host
+fd00:c7a0:e88f:f5fc::/64
+2001:91dd:d65d:3bda:d599:4e26:8f42:49fa # scanner node
+2620:2410:212f:e5de::/64
+2a04:30a9:fa9d:c5b7:95cf:8a9c:2d90:593c/128 # spam source
+2600:dbd7:56fd:bd14:d65a:c48f:5b88:bfa1/128
+2a00:de2a:56ba::/48 # tor exit node
+2604:f76d:65b1:59fa::/64 # scanner node
+2600:26cb:718b:ed0f:8bc6:c51d:1b9f:a32b # malicious host
+2400:d255:a859:a046:8859:4748:8258:dfab # proxy server
+2a02:eb0:ff28:f4c8:4f19:62f7:523a:8721/128 # spam source
+2a02:583f:de91::/48
+2405:b44:f608:f549:7509:e1bf:1c6f:46dc # c2 server
+2606:b5f9:5e95:ceb6:37a2:3fcc:2b29:70d
+2405:f674:b2ef::/48 # known botnet node
+2400:e7be:dd97:81bb::/64 # known botnet node
+2800:9379:99a8::/48
+2c00:2109:b003:b844:9b98:212:aa72:16a2/128
+2001:75a2:c710:87f7:716b:d1a5:efc2:daa5
+2a00:7a0d:3e88:d49a::/64
+2606:2b61:d355::/48
+2a02:9438:9110:90c9:a7a1:ca76:f0b6:afe9 # known botnet node
+2001:57b9:66ff::/48 # c2 server
+2407:15c2:354:77:edbe:8054:87e4:6c40 # phishing origin
+2a00:31dc:fc87:465e:ef61:6539:7c1b:717f # threat intelligence feed
+2a00:f1b6:184b:2380::/64 # proxy server
+2a03:a806:8bdb:10e:449e:4b6a:cadf:b8cb # malicious host
+2800:86cf:c0e9:dbf7:5eb2:e896:eeb8:c628 # known botnet node
+2604:6c23:af8c:1e2d::/64 # suspicious activity
+2604:17ee:81ad:6f8e::/64 # spam source
+2620:41e1:d39d:4adb::/64
+2600:7e70:6e9b:107::/64
+2a00:64d:c744:ceb5:90b9:75a6:8c42:7427 # tor exit node
+2400:c675:e5f2::/48 # threat intelligence feed
+2a00:db03:5f51:4503:fbc:d5d4:58c9:60a
+2a02:241e:f596::/48 # tor exit node
+2a04:770f:38d:d1c4:224b:1c02:563b:431f/128 # spam source
+2400:3a9c:77e1:60eb:69ca:1930:8306:4326/128 # threat intelligence feed
+2620:9c8c:e3df:df7b::/64
+2a00:30e5:72bc::/48 # c2 server
+2a00:fc96:ec8f:9232:2cc0:8fe1:e380:cf3d
+2600:4dc0:9e8e:ebc0::/64
+2405:ebf2:27ac:6de0:c188:ed2f:f642:e605/128
+2001:4d1f:850b:7d47:f350:32fe:1a0c:819a
+2c00:9f77:b340::/48
+2400:d09a:ed1a:2561:b394:6573:7f6b:be2e/128
+fd00:82e2:3fa7:f641::/64 # proxy server
+2405:f05c:be9d:4a1b:6615:bd23:487d:7984/128 # phishing origin
+2620:246f:af88:70c0::/64 # phishing origin
+2405:d34d:b957::/48 # tor exit node
+2a00:5d24:d3a6:431a:6a01:3e94:9b5b:4bb1 # proxy server
+2a03:4bf6:d819:4cf6:828c:c42e:78a6:9c32/128 # spam source
+2a02:380f:bc74:fe27::/64
+2407:8573:6c3b:907a:1766:744:7a6c:a551 # c2 server
+2407:9f3e:ebcf:c61b:9ab9:75e4:7390:2eab/128 # phishing origin
+2620:d856:df6f:617b:5bed:8b0b:1c19:a066
+2604:926c:ab62:82bb:9beb:fcc8:9d9a:b3b9/128 # malicious host
+2003:dfe2:e86f:77ba::/64
+2003:721f:e3bd:4666:62e7:dfd9:6dba:e21b # known botnet node
+2620:7639:6ef:a361:c4f4:7fa9:d3a4:3ae6 # malicious host
+2a03:d949:4f8a:c9d6:e990:f789:672d:3f1 # threat intelligence feed
+2001:a9df:ceef:b66d:7597:43d1:99b2:164c # known botnet node
+2620:e644:9072:1bb0::/64 # tor exit node
+2407:f2c9:af8e:8d46::/64 # scanner node
+2606:4db6:148e:590c:bc02:86d8:3f01:f64d # c2 server
+2600:7d5e:94a:f000:ba2:1df9:7d80:898e # c2 server
+2a00:1025:f213:4302::/64
+fd00:1c63:76c6:875:f402:32d6:6df:e4ec/128
+2620:4580:3263::/48 # proxy server
+2620:338d:2670:8f74:cca5:c121:e800:9b1/128 # malicious host
+2001:a51e:7de8:2718::/64 # known botnet node
+2606:b729:6f8a:af26:89fa:c0f9:333f:1a0f # tor exit node
+2c00:e362:afbc:4d1d:765e:d396:6a24:15d5/128 # tor exit node
+fc00:1996:8fe0:543d:d979:38e9:bb77:8b0c
+2a04:4524:8737:f519:231a:4a41:1b81:e133/128 # spam source
+2a04:d52f:d427:8303::/64 # known botnet node
+2407:858d:dcb4:7ae8:79e5:2d1d:633f:61ef # scanner node
+2a04:d3aa:bad4:ab2f:46eb:3f7:78d3:c975 # suspicious activity
+2003:7c0c:da46::/48 # known botnet node
+2a06:19b2:4b2b:c86c:20e0:b922:6b1a:69d7 # tor exit node
+2405:15ea:12c1:10de::/64
+2600:7e1:8a3b:2cbb:9cec:e00a:5d60:cee5 # spam source
+2a06:1f9b:72e9:b386::/64
+fc00:5a29:2f36:74e1::/64
+2a04:576d:f627::/48 # phishing origin
+fc00:2438:d703::/48 # proxy server
+2001:f1bc:ade2::/48 # suspicious activity
+2800:3ea9:a158:c2bb:48f6:89da:d559:4efc # tor exit node
+fc00:3f39:f4f3:dfd5::/64
+fd00:73f0:cd38:1450:c8ba:13d0:9d5a:acf3/128
+2600:dfe8:2f8f:734d:9876:3233:9f6e:8f57 # threat intelligence feed
+2604:6a9f:74bd:1d7c:d041:481c:c9e8:ee3
+2620:9f59:bb10:9af2:30f1:8848:d149:e618/128
+2001:34b2:dc66:efdd:9913:c949:569b:6def # spam source
+fc00:f7f4:225::/48 # phishing origin
+2a04:3485:7028:eb1d::/64 # phishing origin
+2a03:94ab:7044:bd1c::/64
+fd00:9c00:930c::/48 # suspicious activity
+2a04:1d3d:c3b1:e08:92b8:ac04:cf57:a565/128
+2a02:2928:cfb1:5e58:afec:c73b:4aa3:af52/128 # malicious host
+2604:d3f6:f34c:187b:d7:c08:b891:d40f # c2 server
+2a02:3150:8d63:5877::/64 # suspicious activity
+2600:aa2c:e020:879e:c3b1:4a4e:9c40:635c # c2 server
+fd00:870:11e6:738b:51be:3646:bd56:62c8 # threat intelligence feed
+2c00:161e:64b0::/48 # threat intelligence feed
