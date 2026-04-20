@@ -1,0 +1,11 @@
+ip_address,incident_id,user_id,severity,timestamp,reporter
+10.0.0.1,INC001,pa_user1,high,2026-04-15T10:00:00Z,soc_team
+192.168.1.100,INC002,pa_user2,medium,2026-04-15T11:30:00Z,analyst_john
+172.16.0.50,INC003,pa_user3,critical,2026-04-15T12:45:00Z,soc_team
+10.0.0.0/24,INC004,pa_user1,low,2026-04-15T13:00:00Z,automated_system
+192.168.1.0/24,INC005,pa_user4,medium,2026-04-15T14:15:00Z,analyst_jane
+10.0.0.100-10.0.0.150,INC006,pa_user2,high,2026-04-15T15:30:00Z,soc_lead
+203.0.113.5,INC007,pa_user5,critical,2026-04-15T16:00:00Z,threat_intel_team
+198.51.100.10,INC008,pa_user3,high,2026-04-15T17:20:00Z,soc_team
+172.31.0.0/16,INC009,pa_user6,low,2026-04-15T18:00:00Z,network_team
+10.1.1.1,INC010,pa_user1,medium,2026-04-16T09:00:00Z,analyst_john
