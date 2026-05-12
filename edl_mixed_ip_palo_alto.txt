@@ -2001,3 +2001,4 @@ fd00:9c00:930c::/48 # suspicious activity
 2600:aa2c:e020:879e:c3b1:4a4e:9c40:635c # c2 server
 fd00:870:11e6:738b:51be:3646:bd56:62c8 # threat intelligence feed
 2c00:161e:64b0::/48 # threat intelligence feed
+fd00:870:11e6:738b:51be:3646:bd56:62c6
