@@ -1,0 +1,15 @@
+overlap-threat-node-1.net
+overlap-threat-node-2.org
+overlap-c2-host-1.net
+overlap-c2-host-2.org
+overlap-beacon-1.net
+overlap-beacon-2.org
+overlap-exfil-1.net
+overlap-exfil-2.org
+overlap-dropper-1.net
+overlap-dropper-2.org
+overlap-pivot-1.net
+overlap-pivot-2.org
+overlap-relay-1.net
+overlap-relay-2.org
+overlap-loader-1.net

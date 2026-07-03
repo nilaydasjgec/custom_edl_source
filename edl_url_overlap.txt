@@ -1,0 +1,15 @@
+http://overlap-c2.net/gate/check.php
+https://overlap-relay.org/beacon/ping.php
+http://overlap-exfil.net/data/send.php
+https://overlap-dropper.org/stage/load.php
+http://overlap-pivot.net/cmd/exec.php
+https://overlap-loader.org/payload/run.php
+http://overlap-c2.net/task/fetch.php
+https://overlap-relay.org/creds/dump.php
+http://overlap-exfil.net/file/upload.php
+https://overlap-dropper.org/persist/install.php
+http://overlap-pivot.net/scan/probe.php
+https://overlap-loader.org/inject/hollow.php
+http://overlap-c2.net/enum/harvest.php
+https://overlap-relay.org/token/steal.php
+http://overlap-exfil.net/key/gen.php
